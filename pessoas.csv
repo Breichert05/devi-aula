@@ -1,0 +1,1201 @@
+Nome,Sexo,Idade,Cidade,Estado,Time que torce,Renda,Esporte favorito
+Eduardo,Feminino,36,Juiz de Fora,MG,Bahia,14414.89,Corrida
+Thales,Masculino,59,Vitória da Conquista,BA,Corinthians,11618.22,Vôlei
+Raul,Masculino,75,Campinas,SP,Internacional,11205.28,Vôlei
+Bernardo,Masculino,26,Petrópolis,RJ,Corinthians,7402.03,Vôlei
+Maria Sophia,Masculino,66,Santa Maria,RS,Atlético-MG,14171.38,Basquete
+Luiz Henrique,Feminino,76,Santos,SP,Palmeiras,7110.09,Ciclismo
+Cauê,Masculino,30,Caxias do Sul,RS,São Paulo,10465.72,Skate
+Camila,Feminino,38,Niterói,RJ,Grêmio,9640.58,Futebol
+Arthur,Feminino,65,São Paulo,SP,Bahia,2905.4,Tênis
+Maria,Feminino,46,Vitória da Conquista,BA,São Paulo,9047.64,Futebol
+Carolina,Masculino,75,Campinas,SP,Palmeiras,11262.89,Corrida
+João Guilherme,Masculino,48,Ilhéus,BA,Palmeiras,2683.91,Tênis
+Luana,Masculino,69,Volta Redonda,RJ,Vasco,2306.95,Skate
+João Gabriel,Feminino,72,Ilhéus,BA,Flamengo,7249.74,Basquete
+Eduarda,Feminino,33,Volta Redonda,RJ,Flamengo,9006.02,Basquete
+Joana,Feminino,42,Petrópolis,RJ,São Paulo,4689.99,Futebol
+Thales,Masculino,33,Santos,SP,Flamengo,8688.78,Basquete
+Calebe,Feminino,44,Vitória da Conquista,BA,Bahia,6103.77,Natação
+Luigi,Masculino,45,Porto Alegre,RS,São Paulo,6965.69,Natação
+Bryan,Masculino,22,Salvador,BA,Corinthians,11852.88,Ciclismo
+Calebe,Feminino,28,Volta Redonda,RJ,Internacional,5177.98,Skate
+Carlos Eduardo,Feminino,43,Niterói,RJ,São Paulo,14938.74,Corrida
+Diogo,Feminino,44,Uberlândia,MG,Grêmio,7232.8,Skate
+Raquel,Feminino,18,Ilhéus,BA,São Paulo,11770.69,Vôlei
+Amanda,Feminino,60,Juiz de Fora,MG,Grêmio,12548.16,Skate
+Luiz Gustavo,Feminino,28,Santos,SP,Cruzeiro,7220.42,Skate
+Daniela,Masculino,30,Porto Alegre,RS,Vasco,9989.55,Corrida
+Nicole,Feminino,25,Niterói,RJ,Internacional,3174.06,Vôlei
+Ana Clara,Feminino,77,Pelotas,RS,Grêmio,13769.18,Corrida
+Pietro,Masculino,68,Volta Redonda,RJ,Bahia,7525.56,Tênis
+João Gabriel,Feminino,73,Salvador,BA,Grêmio,10118.01,Skate
+Brenda,Masculino,51,Belo Horizonte,MG,Cruzeiro,11836.37,Corrida
+Theo,Feminino,48,Pelotas,RS,Internacional,5037.19,Futebol
+Bernardo,Masculino,35,Santa Maria,RS,Atlético-MG,10656.61,Tênis
+Pedro Henrique,Feminino,63,Rio de Janeiro,RJ,Vasco,7661.16,Tênis
+Nicolas,Masculino,46,Contagem,MG,Internacional,10943.91,Basquete
+Felipe,Feminino,27,Juiz de Fora,MG,São Paulo,10710.52,Ciclismo
+Raquel,Masculino,22,Ilhéus,BA,Grêmio,6039.03,Tênis
+Juan,Masculino,45,Rio de Janeiro,RJ,Cruzeiro,11889.6,Tênis
+Carolina,Feminino,62,Niterói,RJ,São Paulo,1289.34,Vôlei
+Ana Júlia,Masculino,55,Belo Horizonte,MG,Palmeiras,9725.61,Futebol
+Luna,Feminino,68,Vitória da Conquista,BA,Cruzeiro,9815.38,Tênis
+Sofia,Masculino,43,Caxias do Sul,RS,Corinthians,7567.39,Vôlei
+Bryan,Masculino,25,Santa Maria,RS,São Paulo,7441.82,Vôlei
+Luiz Gustavo,Feminino,73,Ribeirão Preto,SP,Atlético-MG,12436.82,Corrida
+Emanuelly,Feminino,24,Porto Alegre,RS,Palmeiras,4064.24,Ciclismo
+Alana,Feminino,53,Contagem,MG,Grêmio,11008.73,Ciclismo
+Agatha,Masculino,66,Feira de Santana,BA,Atlético-MG,4459.68,Corrida
+João Guilherme,Feminino,55,Pelotas,RS,Grêmio,12575.35,Natação
+Isaac,Masculino,64,Caxias do Sul,RS,Vasco,11042.98,Skate
+Leandro,Feminino,33,Feira de Santana,BA,São Paulo,13814.44,Natação
+João Guilherme,Masculino,58,Uberlândia,MG,Atlético-MG,10212.91,Vôlei
+Ana Julia,Feminino,39,Salvador,BA,Corinthians,12087.17,Tênis
+Ian,Masculino,44,Pelotas,RS,Palmeiras,5923.95,Ciclismo
+Arthur,Feminino,78,Niterói,RJ,Palmeiras,14176.31,Ciclismo
+Ana Júlia,Masculino,45,Salvador,BA,Bahia,10942.71,Vôlei
+Lívia,Feminino,48,Ribeirão Preto,SP,Cruzeiro,12347.45,Natação
+Isadora,Feminino,76,Niterói,RJ,Internacional,11009.8,Ciclismo
+Danilo,Masculino,26,Ribeirão Preto,SP,Palmeiras,13152.58,Tênis
+Levi,Feminino,33,Ilhéus,BA,Vasco,9783.01,Ciclismo
+Lorena,Feminino,47,Ilhéus,BA,São Paulo,6413.81,Corrida
+Yuri,Feminino,18,Juiz de Fora,MG,Corinthians,5441.67,Basquete
+Isadora,Masculino,73,Campinas,SP,Vasco,7713.19,Tênis
+Leandro,Masculino,37,Juiz de Fora,MG,Cruzeiro,6094.55,Ciclismo
+Yuri,Masculino,66,Pelotas,RS,Internacional,3976.33,Skate
+Lorenzo,Feminino,42,Belo Horizonte,MG,Atlético-MG,6372.42,Skate
+Felipe,Feminino,37,Contagem,MG,Vasco,9646.86,Tênis
+João,Masculino,77,Volta Redonda,RJ,Internacional,1822.87,Skate
+Guilherme,Masculino,44,Juiz de Fora,MG,Corinthians,10427.14,Futebol
+Vinicius,Masculino,63,Vitória da Conquista,BA,Atlético-MG,8301.77,Vôlei
+Marina,Feminino,70,Rio de Janeiro,RJ,Cruzeiro,4150.01,Natação
+Caio,Feminino,50,São Paulo,SP,Vasco,13659.94,Tênis
+Theo,Feminino,44,Belo Horizonte,MG,São Paulo,12126.69,Vôlei
+Ana Lívia,Masculino,31,Ilhéus,BA,Vasco,8852.69,Skate
+Bruno,Feminino,63,Ribeirão Preto,SP,Bahia,7262.58,Skate
+Kamilly,Feminino,33,Juiz de Fora,MG,Internacional,8307.52,Skate
+Stella,Masculino,63,Santos,SP,São Paulo,10694.31,Natação
+João Gabriel,Feminino,53,Feira de Santana,BA,Internacional,6059.73,Ciclismo
+Leandro,Feminino,21,Caxias do Sul,RS,São Paulo,13066.41,Corrida
+Ana Júlia,Feminino,59,São Paulo,SP,Bahia,2174.91,Corrida
+Eduarda,Feminino,68,São Paulo,SP,Internacional,1577.98,Natação
+Evelyn,Feminino,37,Volta Redonda,RJ,Bahia,14083.41,Futebol
+Davi,Masculino,52,Feira de Santana,BA,Atlético-MG,7649.26,Skate
+Alana,Feminino,66,Vitória da Conquista,BA,Palmeiras,5053.26,Corrida
+Vitor Hugo,Masculino,71,Ilhéus,BA,Bahia,1788.42,Basquete
+Maysa,Masculino,56,Santos,SP,Vasco,6578.64,Futebol
+Emanuel,Masculino,47,Campinas,SP,Internacional,11865.72,Skate
+Lorenzo,Masculino,42,Rio de Janeiro,RJ,Flamengo,4481.07,Natação
+João Miguel,Feminino,52,Santa Maria,RS,Atlético-MG,12779.81,Futebol
+Paulo,Masculino,69,Feira de Santana,BA,Bahia,12518.23,Tênis
+Raquel,Masculino,62,São Paulo,SP,Corinthians,9007.32,Tênis
+Júlia,Feminino,79,São Paulo,SP,Vasco,12655.23,Ciclismo
+Maria Fernanda,Masculino,36,Vitória da Conquista,BA,Internacional,9842.26,Skate
+Luiz Gustavo,Feminino,69,Niterói,RJ,Cruzeiro,10994.94,Corrida
+Sarah,Masculino,19,Niterói,RJ,Palmeiras,10158.24,Vôlei
+Marina,Feminino,49,Volta Redonda,RJ,Corinthians,1704.38,Futebol
+Davi Luiz,Feminino,25,Vitória da Conquista,BA,Palmeiras,12702.12,Futebol
+Pietro,Feminino,21,Petrópolis,RJ,Corinthians,11810.15,Skate
+Marina,Masculino,50,Salvador,BA,Cruzeiro,4071.23,Futebol
+João Miguel,Masculino,44,Ilhéus,BA,São Paulo,14428.55,Vôlei
+João Miguel,Feminino,27,Petrópolis,RJ,São Paulo,14924.43,Futebol
+Maria Cecília,Masculino,79,Caxias do Sul,RS,Vasco,10565.03,Natação
+Pietro,Feminino,64,Rio de Janeiro,RJ,Grêmio,13067.43,Corrida
+Laura,Masculino,63,Juiz de Fora,MG,Atlético-MG,2996.22,Vôlei
+André,Masculino,68,Vitória da Conquista,BA,Palmeiras,4705.11,Skate
+Lorena,Masculino,66,Contagem,MG,Atlético-MG,11446.94,Skate
+Gabrielly,Masculino,73,São Paulo,SP,Cruzeiro,9831.37,Ciclismo
+Lorena,Feminino,59,Vitória da Conquista,BA,Bahia,1837.26,Tênis
+Emanuelly,Masculino,71,Feira de Santana,BA,Internacional,7158.44,Natação
+Maria Eduarda,Masculino,63,Contagem,MG,Palmeiras,10758.96,Futebol
+Julia,Feminino,37,Juiz de Fora,MG,São Paulo,4486.33,Ciclismo
+Ana,Feminino,74,Ilhéus,BA,Flamengo,14238.42,Ciclismo
+Carlos Eduardo,Feminino,24,Belo Horizonte,MG,Cruzeiro,5655.97,Ciclismo
+Alana,Masculino,66,Ribeirão Preto,SP,Internacional,6204.62,Vôlei
+Larissa,Feminino,44,Petrópolis,RJ,Grêmio,4704.4,Natação
+Theo,Masculino,39,São Paulo,SP,Flamengo,7307.48,Futebol
+Júlia,Feminino,48,Salvador,BA,Grêmio,12838.42,Skate
+Stephany,Feminino,25,Pelotas,RS,Bahia,12576.46,Tênis
+Lucca,Masculino,29,Petrópolis,RJ,Grêmio,2787.59,Vôlei
+Maria Alice,Feminino,26,Caxias do Sul,RS,Internacional,8113.23,Futebol
+Nina,Feminino,53,Santos,SP,São Paulo,7521.74,Ciclismo
+Luigi,Masculino,38,Campinas,SP,Grêmio,14751.74,Tênis
+Eloah,Masculino,69,Volta Redonda,RJ,Cruzeiro,2617.84,Natação
+Laura,Feminino,37,Uberlândia,MG,Atlético-MG,14691.91,Futebol
+Alexia,Feminino,41,Petrópolis,RJ,Corinthians,10589.05,Skate
+Vicente,Masculino,78,Rio de Janeiro,RJ,Flamengo,13859.51,Tênis
+Samuel,Masculino,61,Santos,SP,Vasco,11774.08,Ciclismo
+João Miguel,Masculino,24,Volta Redonda,RJ,Grêmio,12356.24,Basquete
+Arthur,Feminino,29,São Paulo,SP,Corinthians,10427.3,Natação
+Guilherme,Feminino,62,Niterói,RJ,Vasco,1831.63,Basquete
+Larissa,Feminino,51,Ilhéus,BA,Flamengo,10304.95,Natação
+Sarah,Feminino,40,Petrópolis,RJ,Palmeiras,3420.91,Vôlei
+Luiz Henrique,Feminino,54,Rio de Janeiro,RJ,Atlético-MG,9052.23,Ciclismo
+Mariane,Feminino,24,Salvador,BA,Palmeiras,3865.07,Natação
+Yago,Masculino,61,Niterói,RJ,Bahia,11660.19,Tênis
+Thales,Masculino,68,Santa Maria,RS,Flamengo,9314.06,Skate
+Rodrigo,Masculino,25,Ribeirão Preto,SP,Flamengo,2598.68,Corrida
+Eloah,Masculino,48,São Paulo,SP,Cruzeiro,2125.35,Corrida
+Gustavo Henrique,Masculino,74,Niterói,RJ,Flamengo,14542.76,Corrida
+Heloísa,Feminino,61,Salvador,BA,Bahia,7944.9,Vôlei
+Emilly,Masculino,63,Vitória da Conquista,BA,Grêmio,8885.53,Basquete
+Davi Lucas,Masculino,42,São Paulo,SP,Palmeiras,13537.38,Corrida
+Guilherme,Masculino,69,Niterói,RJ,Cruzeiro,2644.83,Tênis
+Sophie,Feminino,39,Feira de Santana,BA,Corinthians,1217.28,Skate
+Isabella,Masculino,57,Uberlândia,MG,Grêmio,4246.48,Ciclismo
+Nicolas,Masculino,57,São Paulo,SP,Corinthians,1546.99,Skate
+Emilly,Masculino,26,Caxias do Sul,RS,São Paulo,2593.82,Futebol
+João Lucas,Masculino,61,São Paulo,SP,Grêmio,7098.47,Skate
+Alexia,Feminino,33,São Paulo,SP,Cruzeiro,1504.83,Futebol
+Gabriela,Masculino,45,Vitória da Conquista,BA,Vasco,1581.13,Ciclismo
+João Felipe,Feminino,74,Volta Redonda,RJ,Corinthians,1977.56,Tênis
+Augusto,Masculino,28,Rio de Janeiro,RJ,Bahia,4522.62,Ciclismo
+Sofia,Masculino,59,Petrópolis,RJ,Corinthians,13568.59,Natação
+Rafael,Feminino,43,Ribeirão Preto,SP,Palmeiras,6770.72,Corrida
+Juliana,Feminino,63,Rio de Janeiro,RJ,Vasco,8487.36,Natação
+Isadora,Masculino,27,Campinas,SP,Grêmio,5251.02,Tênis
+Marcela,Masculino,19,Santa Maria,RS,Bahia,1372.53,Skate
+Vinicius,Feminino,41,Ilhéus,BA,Palmeiras,11342.74,Basquete
+Mariana,Masculino,49,Volta Redonda,RJ,Grêmio,10122.28,Basquete
+Bernardo,Masculino,66,Vitória da Conquista,BA,Grêmio,1599.48,Skate
+Luana,Masculino,69,Contagem,MG,Palmeiras,11254.59,Vôlei
+Pedro Lucas,Feminino,44,São Paulo,SP,Atlético-MG,6489.65,Basquete
+Luiz Otávio,Feminino,68,Petrópolis,RJ,Internacional,12199.32,Basquete
+Benjamin,Feminino,54,Santa Maria,RS,Grêmio,10734.1,Basquete
+Danilo,Masculino,51,Porto Alegre,RS,Corinthians,9046.82,Tênis
+Alexandre,Masculino,40,Feira de Santana,BA,Atlético-MG,3034.5,Corrida
+Luiz Miguel,Feminino,33,Porto Alegre,RS,Internacional,8551.32,Vôlei
+Lorena,Feminino,73,Campinas,SP,Cruzeiro,2820.22,Futebol
+Maysa,Masculino,28,Ilhéus,BA,Cruzeiro,4624.56,Vôlei
+Julia,Feminino,70,Ilhéus,BA,Internacional,11578.2,Basquete
+Yasmin,Masculino,63,Santos,SP,Cruzeiro,8369.23,Tênis
+Eduarda,Feminino,37,Campinas,SP,Bahia,9694.66,Basquete
+Stephany,Feminino,37,Feira de Santana,BA,Flamengo,5293.5,Basquete
+Juan,Masculino,61,Pelotas,RS,Grêmio,2029.79,Ciclismo
+Luna,Feminino,31,Feira de Santana,BA,Internacional,9201.58,Basquete
+Vitor,Masculino,35,Santa Maria,RS,Internacional,4899.79,Tênis
+Guilherme,Masculino,37,Ilhéus,BA,Palmeiras,13967.05,Basquete
+Alice,Masculino,20,Contagem,MG,Flamengo,1633.38,Skate
+Maria Eduarda,Feminino,61,Ilhéus,BA,Cruzeiro,11156.12,Natação
+Luiz Fernando,Masculino,24,Ilhéus,BA,Flamengo,2156.21,Futebol
+Stella,Masculino,75,Niterói,RJ,Internacional,11876.94,Tênis
+Vicente,Feminino,37,Niterói,RJ,Bahia,3067.27,Natação
+Alexandre,Feminino,31,Caxias do Sul,RS,Grêmio,1662.89,Basquete
+Gustavo,Masculino,57,Rio de Janeiro,RJ,Cruzeiro,5104.09,Ciclismo
+Nicole,Masculino,43,Contagem,MG,Palmeiras,11051.68,Ciclismo
+Valentina,Masculino,29,Juiz de Fora,MG,Cruzeiro,4133.13,Skate
+Samuel,Masculino,74,Belo Horizonte,MG,Atlético-MG,1288.23,Skate
+Maria Fernanda,Masculino,50,Petrópolis,RJ,Flamengo,10357.79,Vôlei
+Luana,Masculino,47,Caxias do Sul,RS,Bahia,13611.45,Corrida
+Isis,Feminino,48,Uberlândia,MG,Bahia,4501.64,Corrida
+Eloah,Feminino,57,Pelotas,RS,Flamengo,11396.86,Corrida
+Sophie,Masculino,22,Ribeirão Preto,SP,Atlético-MG,13734.38,Tênis
+Ana,Feminino,67,Contagem,MG,Atlético-MG,9597.27,Tênis
+Vinicius,Feminino,30,Vitória da Conquista,BA,Corinthians,11437.21,Ciclismo
+Amanda,Feminino,60,Ilhéus,BA,Palmeiras,6364.49,Vôlei
+Nina,Masculino,58,Santos,SP,Bahia,2628.97,Natação
+Leandro,Masculino,38,Pelotas,RS,Internacional,8256.32,Basquete
+Maria,Feminino,57,Porto Alegre,RS,Internacional,7856.54,Corrida
+Rodrigo,Masculino,66,Caxias do Sul,RS,Palmeiras,11318.03,Ciclismo
+Alícia,Feminino,34,Caxias do Sul,RS,Corinthians,3350.27,Natação
+Danilo,Masculino,53,Caxias do Sul,RS,Atlético-MG,6407.2,Vôlei
+Larissa,Feminino,45,Pelotas,RS,Atlético-MG,12131.82,Ciclismo
+Arthur,Feminino,58,Belo Horizonte,MG,Palmeiras,8707.74,Futebol
+Vitor,Feminino,62,Ribeirão Preto,SP,São Paulo,8584.49,Tênis
+Emanuelly,Masculino,49,Petrópolis,RJ,Bahia,4646.91,Futebol
+Eduardo,Feminino,66,Campinas,SP,Vasco,1257.99,Corrida
+Emanuel,Masculino,65,Ribeirão Preto,SP,São Paulo,2249.48,Basquete
+Felipe,Feminino,44,Ribeirão Preto,SP,Vasco,11070.58,Corrida
+Nathan,Feminino,38,Pelotas,RS,São Paulo,6146.97,Vôlei
+Gustavo Henrique,Masculino,26,Santos,SP,Vasco,3039.57,Futebol
+Emilly,Feminino,43,Vitória da Conquista,BA,Corinthians,6690.36,Futebol
+Davi Lucas,Masculino,39,Santa Maria,RS,Atlético-MG,7336.98,Ciclismo
+Kaique,Masculino,27,Santos,SP,Palmeiras,14289.41,Vôlei
+Renan,Feminino,52,Santa Maria,RS,Corinthians,8298.3,Natação
+Mariane,Masculino,31,Ilhéus,BA,Vasco,4978.37,Basquete
+Cecília,Masculino,40,Porto Alegre,RS,São Paulo,10926.17,Vôlei
+Letícia,Masculino,62,Campinas,SP,Cruzeiro,12326.97,Tênis
+Alexia,Masculino,69,Feira de Santana,BA,Palmeiras,4455.27,Basquete
+Sarah,Feminino,79,Feira de Santana,BA,Palmeiras,12085.9,Skate
+Vitor Gabriel,Feminino,78,Campinas,SP,Palmeiras,7809.59,Tênis
+Esther,Masculino,49,Feira de Santana,BA,Atlético-MG,8662.8,Tênis
+Miguel,Masculino,31,Salvador,BA,Atlético-MG,13030.42,Natação
+Nina,Feminino,35,Belo Horizonte,MG,Cruzeiro,7314.3,Futebol
+Beatriz,Masculino,56,Rio de Janeiro,RJ,Bahia,4056.88,Ciclismo
+Mariana,Masculino,22,Niterói,RJ,Atlético-MG,2542.33,Ciclismo
+Davi Lucas,Feminino,80,Santos,SP,Palmeiras,10987.55,Skate
+Rebeca,Masculino,28,Contagem,MG,Atlético-MG,3633.75,Ciclismo
+João Gabriel,Feminino,69,Contagem,MG,Corinthians,10833.94,Tênis
+Sophia,Masculino,57,Ribeirão Preto,SP,Grêmio,8723.39,Corrida
+Ana,Masculino,52,Caxias do Sul,RS,Grêmio,6237.09,Skate
+Calebe,Masculino,36,Salvador,BA,São Paulo,9252.31,Ciclismo
+Antônio,Masculino,42,Caxias do Sul,RS,Palmeiras,6063.07,Skate
+Pietro,Feminino,22,Petrópolis,RJ,Palmeiras,5718.57,Skate
+Davi Lucca,Feminino,24,Niterói,RJ,Palmeiras,2678.7,Corrida
+Lucca,Feminino,69,Petrópolis,RJ,Palmeiras,13889.86,Tênis
+Pedro Henrique,Feminino,80,Rio de Janeiro,RJ,Internacional,7914.24,Corrida
+Bárbara,Masculino,24,Contagem,MG,Atlético-MG,14354.29,Natação
+Manuela,Feminino,49,Salvador,BA,Palmeiras,10400.74,Futebol
+Pietro,Masculino,66,Uberlândia,MG,São Paulo,7939.59,Vôlei
+Vinicius,Feminino,40,Campinas,SP,Vasco,7649.33,Basquete
+Diego,Masculino,77,Niterói,RJ,Corinthians,12047.12,Vôlei
+João,Feminino,75,Vitória da Conquista,BA,Bahia,6047.87,Basquete
+Maysa,Feminino,78,Uberlândia,MG,Vasco,7356.76,Ciclismo
+Diego,Feminino,18,Caxias do Sul,RS,Cruzeiro,9169.01,Ciclismo
+Sabrina,Feminino,65,Ilhéus,BA,São Paulo,6903.19,Tênis
+Raul,Feminino,51,Caxias do Sul,RS,Vasco,13820.88,Ciclismo
+Gabriela,Feminino,55,Santa Maria,RS,Corinthians,1963.14,Skate
+Camila,Masculino,38,Vitória da Conquista,BA,São Paulo,4084.92,Vôlei
+Kaique,Masculino,38,Ribeirão Preto,SP,São Paulo,14079.94,Natação
+João Guilherme,Feminino,22,Porto Alegre,RS,Corinthians,3224.01,Tênis
+Ana Beatriz,Feminino,60,Volta Redonda,RJ,Palmeiras,14251.38,Tênis
+Sophie,Masculino,54,São Paulo,SP,São Paulo,9939.8,Vôlei
+Diego,Feminino,54,Feira de Santana,BA,Atlético-MG,11501.23,Basquete
+Samuel,Feminino,35,Niterói,RJ,Grêmio,9492.19,Corrida
+Laura,Feminino,31,Campinas,SP,Atlético-MG,7927.71,Corrida
+Maitê,Feminino,63,Uberlândia,MG,Vasco,9413.24,Basquete
+Esther,Feminino,33,Salvador,BA,Internacional,8191.1,Ciclismo
+Pedro Lucas,Feminino,63,Caxias do Sul,RS,Bahia,4317.3,Futebol
+Diogo,Feminino,23,Ilhéus,BA,Atlético-MG,1628.21,Tênis
+Giovanna,Masculino,67,Santos,SP,Grêmio,14163.47,Tênis
+Daniel,Masculino,32,Porto Alegre,RS,Vasco,10518.78,Futebol
+Alana,Feminino,61,Santa Maria,RS,Flamengo,3307.05,Ciclismo
+Paulo,Feminino,73,Petrópolis,RJ,Vasco,12858.38,Corrida
+Heitor,Feminino,19,Santos,SP,São Paulo,2885.12,Vôlei
+João,Feminino,72,Santos,SP,Grêmio,13093.82,Natação
+Clarice,Feminino,71,Campinas,SP,Atlético-MG,8338.1,Ciclismo
+Renan,Masculino,37,Niterói,RJ,Bahia,5742.83,Corrida
+Rafael,Feminino,42,Juiz de Fora,MG,Internacional,12772.9,Futebol
+Gustavo,Feminino,71,Pelotas,RS,Grêmio,1570.72,Corrida
+Cauã,Masculino,68,São Paulo,SP,Corinthians,14952.73,Futebol
+Otávio,Masculino,28,Vitória da Conquista,BA,Cruzeiro,5854.19,Tênis
+Maria Cecília,Feminino,38,Santa Maria,RS,Grêmio,11754.48,Ciclismo
+Yuri,Feminino,27,Santa Maria,RS,Cruzeiro,8258.86,Futebol
+Maria Alice,Feminino,41,Volta Redonda,RJ,Atlético-MG,7457.91,Corrida
+Luigi,Feminino,78,Ribeirão Preto,SP,Flamengo,3822.04,Futebol
+João Vitor,Feminino,49,Volta Redonda,RJ,Bahia,4156.09,Tênis
+Theo,Masculino,53,Vitória da Conquista,BA,Internacional,1555.77,Tênis
+Levi,Feminino,62,Ilhéus,BA,Corinthians,12402.72,Tênis
+Isabel,Feminino,19,Rio de Janeiro,RJ,Corinthians,13403.87,Natação
+Isabelly,Masculino,63,Salvador,BA,Corinthians,10616.36,Basquete
+Thales,Feminino,69,Niterói,RJ,Vasco,10586.47,Basquete
+Ana Luiza,Masculino,61,Salvador,BA,Flamengo,13146.74,Skate
+Rebeca,Feminino,18,Belo Horizonte,MG,Atlético-MG,5868.53,Ciclismo
+Esther,Feminino,44,Caxias do Sul,RS,São Paulo,3143.77,Vôlei
+Maria Luiza,Feminino,19,Rio de Janeiro,RJ,Grêmio,14527.08,Tênis
+Caio,Masculino,55,Belo Horizonte,MG,Internacional,7095.72,Basquete
+Luiz Fernando,Masculino,66,Rio de Janeiro,RJ,São Paulo,11855.19,Corrida
+João,Masculino,23,Caxias do Sul,RS,São Paulo,9630.82,Natação
+Thiago,Feminino,30,Volta Redonda,RJ,Internacional,3746.94,Natação
+Daniela,Feminino,51,Santa Maria,RS,Flamengo,2755.4,Basquete
+Benício,Feminino,68,Pelotas,RS,Vasco,7407.67,Basquete
+Emanuel,Masculino,18,Santos,SP,Atlético-MG,6147.85,Vôlei
+Maria Clara,Feminino,75,Petrópolis,RJ,Flamengo,2427.26,Tênis
+Brenda,Feminino,68,Porto Alegre,RS,Internacional,7269.08,Corrida
+Helena,Feminino,27,Rio de Janeiro,RJ,Palmeiras,1685.64,Ciclismo
+Maria Vitória,Masculino,61,Petrópolis,RJ,Cruzeiro,3065.06,Ciclismo
+Marcelo,Masculino,73,Feira de Santana,BA,Corinthians,1396.79,Natação
+Bernardo,Feminino,39,Porto Alegre,RS,Palmeiras,2127.26,Natação
+Caio,Feminino,54,Porto Alegre,RS,Bahia,14834.81,Ciclismo
+Ana Laura,Feminino,50,Salvador,BA,Corinthians,1464.68,Ciclismo
+Luiz Otávio,Masculino,31,Uberlândia,MG,Grêmio,2917.82,Skate
+Eduardo,Masculino,26,Volta Redonda,RJ,Grêmio,1766.76,Corrida
+Kamilly,Masculino,62,Juiz de Fora,MG,Vasco,1844.6,Ciclismo
+Clara,Feminino,44,Feira de Santana,BA,Flamengo,9529.06,Vôlei
+Maria,Feminino,56,Petrópolis,RJ,São Paulo,6458.15,Tênis
+Davi,Feminino,18,Pelotas,RS,Grêmio,14622.55,Basquete
+Augusto,Feminino,20,Santos,SP,Bahia,12161.17,Vôlei
+Davi Lucas,Feminino,78,Santa Maria,RS,Grêmio,13893.87,Futebol
+Rodrigo,Feminino,34,Rio de Janeiro,RJ,Internacional,6034.85,Basquete
+Murilo,Feminino,60,Ilhéus,BA,Palmeiras,3101.73,Futebol
+Nicolas,Masculino,74,Campinas,SP,Cruzeiro,10005.79,Natação
+Ana Vitória,Masculino,31,Pelotas,RS,Flamengo,10591.04,Tênis
+Olivia,Feminino,49,Campinas,SP,Flamengo,3876.54,Tênis
+Noah,Feminino,35,Santos,SP,Cruzeiro,4086.92,Futebol
+Maria Eduarda,Feminino,49,Volta Redonda,RJ,Cruzeiro,5848.03,Tênis
+João Miguel,Feminino,49,Juiz de Fora,MG,Grêmio,1757.98,Vôlei
+Caroline,Masculino,60,São Paulo,SP,Grêmio,12136.91,Skate
+Daniela,Feminino,73,Juiz de Fora,MG,Atlético-MG,14238.1,Skate
+Ian,Masculino,53,Ilhéus,BA,Internacional,12106.01,Natação
+Leandro,Masculino,33,Pelotas,RS,Corinthians,4385.35,Skate
+Larissa,Masculino,48,Ribeirão Preto,SP,Flamengo,7692.07,Corrida
+Alana,Feminino,36,Belo Horizonte,MG,Palmeiras,2757.24,Natação
+Davi Lucca,Masculino,62,Volta Redonda,RJ,Corinthians,13725.99,Skate
+Manuela,Masculino,53,Petrópolis,RJ,Cruzeiro,1620.23,Basquete
+Maria,Masculino,44,Campinas,SP,Bahia,11570.17,Natação
+Emanuella,Feminino,60,Salvador,BA,Cruzeiro,14351.83,Corrida
+Lara,Feminino,47,Santa Maria,RS,Grêmio,8119.44,Basquete
+Enzo,Masculino,57,Volta Redonda,RJ,Internacional,9209.3,Natação
+Leonardo,Masculino,36,Uberlândia,MG,Atlético-MG,6257.66,Futebol
+Sofia,Feminino,50,Rio de Janeiro,RJ,Corinthians,10799.34,Basquete
+Sofia,Feminino,55,Vitória da Conquista,BA,Internacional,12838.44,Ciclismo
+Levi,Feminino,54,Belo Horizonte,MG,Bahia,5160.31,Basquete
+Isaac,Masculino,18,Santos,SP,Internacional,13807.68,Futebol
+Maria Luiza,Masculino,58,Volta Redonda,RJ,Palmeiras,2927.48,Basquete
+Fernando,Feminino,22,Contagem,MG,Flamengo,4747.71,Tênis
+Henrique,Masculino,32,Uberlândia,MG,Bahia,13960.47,Tênis
+Carolina,Masculino,53,São Paulo,SP,Bahia,11299.87,Vôlei
+Lavínia,Feminino,80,São Paulo,SP,São Paulo,4224.43,Skate
+Leandro,Masculino,55,Belo Horizonte,MG,Bahia,2094.98,Futebol
+Lucas Gabriel,Feminino,72,Salvador,BA,Palmeiras,4802.61,Ciclismo
+Miguel,Feminino,70,Salvador,BA,Bahia,11026.76,Natação
+João Miguel,Masculino,79,Campinas,SP,Flamengo,5728.73,Vôlei
+Maria Vitória,Feminino,27,Belo Horizonte,MG,Vasco,10803.62,Futebol
+Fernanda,Feminino,26,Porto Alegre,RS,Internacional,12603.18,Natação
+Noah,Feminino,34,Feira de Santana,BA,Corinthians,14979.53,Skate
+Igor,Masculino,32,Contagem,MG,Corinthians,8106.65,Corrida
+Gabrielly,Masculino,20,Ilhéus,BA,Cruzeiro,10495.75,Basquete
+João Felipe,Feminino,71,Vitória da Conquista,BA,Grêmio,5579.87,Vôlei
+Isabel,Masculino,29,Pelotas,RS,Corinthians,9313.06,Skate
+João,Feminino,46,Santos,SP,Cruzeiro,6893.9,Tênis
+Rebeca,Masculino,67,Vitória da Conquista,BA,Vasco,5394.18,Natação
+Leandro,Masculino,54,Pelotas,RS,Palmeiras,7971.85,Corrida
+Enzo,Masculino,79,Petrópolis,RJ,Corinthians,3324.83,Skate
+Isabella,Feminino,34,Volta Redonda,RJ,Atlético-MG,12335.92,Basquete
+Marina,Feminino,31,Porto Alegre,RS,Flamengo,10609.18,Tênis
+Stephany,Feminino,68,Belo Horizonte,MG,Palmeiras,5889.83,Natação
+Vicente,Feminino,32,Campinas,SP,Internacional,3788.59,Skate
+Marina,Feminino,21,Ilhéus,BA,Atlético-MG,12250.83,Natação
+Gustavo Henrique,Feminino,34,Ribeirão Preto,SP,Bahia,12631.27,Natação
+Ana Julia,Masculino,62,Niterói,RJ,Corinthians,12086.58,Skate
+Ana Júlia,Masculino,33,Uberlândia,MG,Flamengo,6452.37,Natação
+Bruno,Feminino,76,Campinas,SP,Flamengo,13022.87,Corrida
+Francisco,Masculino,44,Niterói,RJ,Cruzeiro,8722.54,Skate
+Anthony,Masculino,53,Santos,SP,Corinthians,12875.59,Vôlei
+Augusto,Masculino,65,Belo Horizonte,MG,Palmeiras,2161.8,Basquete
+Bernardo,Masculino,53,Salvador,BA,Grêmio,5441.99,Natação
+Enzo Gabriel,Feminino,25,Rio de Janeiro,RJ,Palmeiras,8641.19,Tênis
+Ana Carolina,Feminino,71,Caxias do Sul,RS,São Paulo,11511.48,Basquete
+Anthony,Masculino,74,Salvador,BA,Flamengo,14418.2,Futebol
+Bruno,Masculino,77,Juiz de Fora,MG,São Paulo,6333.11,Futebol
+Alexia,Masculino,77,São Paulo,SP,Corinthians,3981.65,Natação
+Anthony,Masculino,23,Santa Maria,RS,Bahia,13332.27,Vôlei
+Luiz Otávio,Feminino,46,Campinas,SP,Internacional,6120.27,Tênis
+Camila,Masculino,54,Salvador,BA,Vasco,14708.29,Basquete
+Laís,Masculino,66,Belo Horizonte,MG,Grêmio,6095.67,Natação
+Emanuel,Masculino,39,Vitória da Conquista,BA,Palmeiras,1275.89,Basquete
+Levi,Masculino,49,Campinas,SP,Internacional,5491.8,Corrida
+Luiz Felipe,Masculino,62,São Paulo,SP,São Paulo,2630.83,Tênis
+Thales,Feminino,78,Pelotas,RS,Bahia,4944.29,Skate
+Cauã,Feminino,73,São Paulo,SP,Palmeiras,12588.66,Futebol
+Luiz Otávio,Masculino,57,Santa Maria,RS,Grêmio,10835.57,Corrida
+Emanuelly,Feminino,24,Contagem,MG,Vasco,8971.05,Vôlei
+Agatha,Feminino,34,Uberlândia,MG,Cruzeiro,11990.94,Ciclismo
+Bernardo,Masculino,46,Caxias do Sul,RS,Cruzeiro,4819.15,Basquete
+Samuel,Masculino,64,Pelotas,RS,Palmeiras,1779.08,Basquete
+Gustavo,Masculino,65,Juiz de Fora,MG,Flamengo,6125.8,Vôlei
+Sophia,Feminino,59,Porto Alegre,RS,Atlético-MG,12134.52,Basquete
+Diego,Masculino,80,Caxias do Sul,RS,Internacional,3353.25,Ciclismo
+Vinicius,Feminino,60,Ilhéus,BA,Flamengo,8868.52,Futebol
+Alícia,Masculino,46,Feira de Santana,BA,Palmeiras,2448.59,Ciclismo
+Marcelo,Masculino,76,Santa Maria,RS,Internacional,13877.4,Skate
+João Lucas,Feminino,55,Niterói,RJ,Vasco,8958.9,Ciclismo
+Isis,Masculino,53,Petrópolis,RJ,São Paulo,13321.41,Ciclismo
+Larissa,Feminino,24,Contagem,MG,São Paulo,4193.65,Corrida
+Luiz Fernando,Feminino,78,Caxias do Sul,RS,Atlético-MG,8334.01,Tênis
+Bryan,Masculino,48,Rio de Janeiro,RJ,São Paulo,12935.05,Skate
+Isaac,Masculino,56,São Paulo,SP,Grêmio,11029.15,Basquete
+Alice,Feminino,78,Santos,SP,Cruzeiro,4545.73,Ciclismo
+Carlos Eduardo,Feminino,79,Caxias do Sul,RS,Corinthians,4112.31,Natação
+Maria Alice,Masculino,65,Contagem,MG,Palmeiras,11912.38,Futebol
+Gustavo Henrique,Feminino,78,Contagem,MG,Internacional,13525.75,Tênis
+Luiza,Masculino,20,Juiz de Fora,MG,Corinthians,11521.61,Vôlei
+Diego,Masculino,18,Pelotas,RS,Corinthians,13051.44,Tênis
+Laura,Feminino,34,Caxias do Sul,RS,Flamengo,8598.3,Ciclismo
+Milena,Masculino,37,Santa Maria,RS,Flamengo,13657.59,Ciclismo
+Rodrigo,Masculino,50,Campinas,SP,Flamengo,6535.26,Ciclismo
+Agatha,Feminino,30,Uberlândia,MG,Palmeiras,13560.17,Basquete
+Thiago,Feminino,35,Juiz de Fora,MG,Internacional,14263.05,Ciclismo
+Camila,Masculino,43,Salvador,BA,Atlético-MG,10507.12,Basquete
+Kaique,Masculino,28,Porto Alegre,RS,Vasco,7760.73,Vôlei
+Ana Luiza,Feminino,52,Uberlândia,MG,Flamengo,10085.06,Skate
+Paulo,Masculino,52,Santos,SP,São Paulo,13944.3,Vôlei
+Beatriz,Feminino,56,Rio de Janeiro,RJ,Flamengo,1713.88,Vôlei
+Levi,Feminino,80,Caxias do Sul,RS,São Paulo,10734.69,Corrida
+Cauê,Feminino,51,Porto Alegre,RS,Vasco,11705.16,Ciclismo
+Bruna,Masculino,58,Vitória da Conquista,BA,Palmeiras,3524.98,Futebol
+Levi,Masculino,27,Pelotas,RS,Bahia,7743.36,Natação
+Cauê,Masculino,79,Contagem,MG,São Paulo,8067.66,Tênis
+Lorena,Feminino,78,Pelotas,RS,Atlético-MG,7905.96,Ciclismo
+Bianca,Masculino,36,Porto Alegre,RS,Flamengo,10136.45,Corrida
+Ana,Feminino,34,Ilhéus,BA,Atlético-MG,7252.97,Futebol
+Juan,Masculino,57,Caxias do Sul,RS,São Paulo,10083.12,Corrida
+Ana Júlia,Feminino,47,Caxias do Sul,RS,Palmeiras,3851.53,Ciclismo
+Yasmin,Masculino,60,Santos,SP,Bahia,12982.1,Corrida
+Levi,Feminino,19,Ilhéus,BA,Internacional,4480.32,Corrida
+Ana Beatriz,Masculino,32,Petrópolis,RJ,Cruzeiro,3477.74,Skate
+Francisco,Feminino,36,Juiz de Fora,MG,Grêmio,14528.76,Corrida
+Luiz Henrique,Feminino,72,Vitória da Conquista,BA,Internacional,2826.02,Natação
+Cauê,Masculino,67,Belo Horizonte,MG,Flamengo,1438.77,Tênis
+Vitória,Masculino,45,Vitória da Conquista,BA,Vasco,9390.08,Vôlei
+Cauê,Masculino,56,Campinas,SP,Flamengo,8043.41,Vôlei
+Maria,Feminino,63,Feira de Santana,BA,Vasco,4779.35,Ciclismo
+Theo,Masculino,40,Niterói,RJ,Palmeiras,14581.52,Skate
+Pietra,Masculino,44,Santa Maria,RS,Grêmio,13736.1,Tênis
+Joaquim,Masculino,30,Caxias do Sul,RS,São Paulo,4189.35,Basquete
+Luiz Fernando,Masculino,73,Uberlândia,MG,Atlético-MG,9657.54,Tênis
+Pedro,Feminino,69,Campinas,SP,Internacional,1847.15,Skate
+Ana Luiza,Masculino,68,Campinas,SP,Cruzeiro,10622.32,Ciclismo
+Ana Clara,Feminino,25,Niterói,RJ,Atlético-MG,2486.93,Natação
+Manuela,Feminino,65,Belo Horizonte,MG,Atlético-MG,1523.92,Skate
+João Vitor,Masculino,62,Ilhéus,BA,Palmeiras,7240.16,Vôlei
+Bruna,Masculino,36,Juiz de Fora,MG,Grêmio,12037.16,Ciclismo
+Pedro Miguel,Feminino,38,Salvador,BA,Flamengo,8841.19,Basquete
+Alícia,Feminino,79,Rio de Janeiro,RJ,Vasco,1903.23,Corrida
+Igor,Masculino,25,Contagem,MG,Grêmio,12754.14,Tênis
+Levi,Masculino,80,Rio de Janeiro,RJ,Cruzeiro,8325.02,Ciclismo
+Daniela,Masculino,55,Campinas,SP,Corinthians,10895.66,Ciclismo
+Felipe,Masculino,66,Salvador,BA,Palmeiras,6812.29,Basquete
+Davi Lucas,Masculino,80,Caxias do Sul,RS,Internacional,9915.54,Skate
+Carlos Eduardo,Feminino,48,Ribeirão Preto,SP,Flamengo,13461.2,Vôlei
+Enzo Gabriel,Masculino,69,Juiz de Fora,MG,Palmeiras,14961.84,Futebol
+Stephany,Feminino,33,Contagem,MG,Flamengo,14874.55,Tênis
+Vitor Hugo,Masculino,23,Volta Redonda,RJ,Atlético-MG,10918.85,Natação
+Elisa,Masculino,46,Santos,SP,Palmeiras,9447.45,Ciclismo
+André,Masculino,21,Feira de Santana,BA,Flamengo,10010.37,Basquete
+Joana,Masculino,57,Santos,SP,Corinthians,8897.28,Skate
+Antônio,Feminino,75,Juiz de Fora,MG,Atlético-MG,2855.17,Tênis
+João Felipe,Feminino,57,Feira de Santana,BA,Palmeiras,3675.5,Skate
+Pietro,Feminino,60,Santos,SP,Corinthians,1917.9,Tênis
+Maria Julia,Feminino,73,Santos,SP,Vasco,13018.18,Vôlei
+Davi Luiz,Masculino,44,Ilhéus,BA,Atlético-MG,9621.47,Corrida
+Enzo,Feminino,21,Caxias do Sul,RS,Internacional,14610.44,Futebol
+Brenda,Masculino,36,Porto Alegre,RS,Atlético-MG,10548.6,Tênis
+Ana Júlia,Feminino,38,Pelotas,RS,Cruzeiro,8606.57,Vôlei
+Esther,Feminino,43,Uberlândia,MG,Internacional,3618.34,Corrida
+Emilly,Masculino,45,Vitória da Conquista,BA,Grêmio,8498.84,Tênis
+Samuel,Feminino,38,Salvador,BA,Bahia,1775.91,Vôlei
+Diego,Feminino,23,Salvador,BA,Vasco,3416.13,Tênis
+Nina,Feminino,57,Uberlândia,MG,Palmeiras,12192.18,Skate
+Elisa,Feminino,20,Salvador,BA,Vasco,4942.46,Basquete
+Anthony,Feminino,52,Ilhéus,BA,Palmeiras,8370.89,Basquete
+Clara,Feminino,78,São Paulo,SP,Internacional,1536.36,Futebol
+Gabriel,Masculino,58,São Paulo,SP,São Paulo,14121.98,Skate
+Yago,Feminino,27,Petrópolis,RJ,Bahia,13452.12,Vôlei
+Luiza,Masculino,75,Petrópolis,RJ,Vasco,13596.61,Ciclismo
+Ana Beatriz,Feminino,49,Petrópolis,RJ,Cruzeiro,4233.2,Natação
+Ana Lívia,Masculino,38,Belo Horizonte,MG,Flamengo,9564.37,Skate
+Ana Beatriz,Masculino,30,Santos,SP,Cruzeiro,7538.97,Corrida
+Evelyn,Feminino,72,São Paulo,SP,São Paulo,11610.88,Natação
+Ana Vitória,Feminino,26,Volta Redonda,RJ,São Paulo,11585.51,Basquete
+Caio,Masculino,49,Petrópolis,RJ,Bahia,6539.71,Basquete
+Natália,Masculino,73,Santa Maria,RS,Vasco,14756.94,Skate
+Cauã,Masculino,19,Belo Horizonte,MG,Grêmio,3243.87,Corrida
+Pedro Lucas,Masculino,38,Juiz de Fora,MG,Palmeiras,8911.49,Vôlei
+Júlia,Masculino,55,Feira de Santana,BA,Bahia,2131.9,Vôlei
+Emanuel,Masculino,57,Ilhéus,BA,Cruzeiro,9189.6,Skate
+Eloah,Masculino,24,Pelotas,RS,Grêmio,7064.99,Tênis
+Luiz Henrique,Masculino,65,Campinas,SP,Palmeiras,13354.72,Ciclismo
+Noah,Feminino,79,Uberlândia,MG,Flamengo,4789.3,Basquete
+Isabel,Feminino,66,Petrópolis,RJ,Palmeiras,6370.05,Ciclismo
+Heitor,Masculino,62,Ilhéus,BA,Bahia,11163.0,Vôlei
+Gustavo,Masculino,50,Santa Maria,RS,Flamengo,10461.04,Vôlei
+Erick,Feminino,34,Contagem,MG,Internacional,7270.57,Skate
+Mariane,Feminino,31,Contagem,MG,Vasco,4590.21,Natação
+Esther,Masculino,38,Petrópolis,RJ,Vasco,9146.0,Basquete
+Carolina,Feminino,57,Feira de Santana,BA,Grêmio,11753.27,Corrida
+Camila,Feminino,62,Belo Horizonte,MG,Atlético-MG,8623.5,Skate
+Guilherme,Masculino,55,São Paulo,SP,Corinthians,5924.22,Basquete
+Júlia,Feminino,57,Niterói,RJ,Cruzeiro,6183.34,Tênis
+Davi,Feminino,77,Santa Maria,RS,Atlético-MG,11318.14,Tênis
+Pietra,Feminino,57,Contagem,MG,Corinthians,10797.16,Basquete
+Clara,Masculino,24,Santa Maria,RS,Vasco,12594.22,Basquete
+Davi,Masculino,43,Contagem,MG,Palmeiras,9324.17,Corrida
+Maria Julia,Masculino,46,Petrópolis,RJ,Palmeiras,6678.53,Vôlei
+Danilo,Masculino,26,Juiz de Fora,MG,Grêmio,3844.77,Futebol
+Thales,Feminino,39,Porto Alegre,RS,Cruzeiro,12023.24,Skate
+Maria Cecília,Feminino,20,Juiz de Fora,MG,Flamengo,12916.86,Vôlei
+Amanda,Masculino,29,Santa Maria,RS,Atlético-MG,6431.77,Natação
+Cauê,Masculino,77,Volta Redonda,RJ,Vasco,13177.42,Basquete
+Agatha,Masculino,31,Santos,SP,Corinthians,9688.73,Ciclismo
+João Pedro,Feminino,31,Ribeirão Preto,SP,Palmeiras,13185.93,Corrida
+Davi Lucas,Feminino,40,Vitória da Conquista,BA,Cruzeiro,3333.9,Basquete
+Alexandre,Masculino,40,Juiz de Fora,MG,Grêmio,14830.38,Basquete
+Cecília,Feminino,56,Uberlândia,MG,Palmeiras,5110.27,Vôlei
+João,Feminino,60,Uberlândia,MG,Internacional,2839.25,Corrida
+Luiz Fernando,Masculino,53,Petrópolis,RJ,Flamengo,8543.51,Tênis
+Davi Lucca,Masculino,18,Niterói,RJ,São Paulo,9879.46,Futebol
+Luiz Fernando,Masculino,73,Porto Alegre,RS,Atlético-MG,14305.67,Tênis
+Felipe,Feminino,62,Pelotas,RS,Bahia,2546.08,Natação
+Vitória,Feminino,43,São Paulo,SP,Palmeiras,4764.2,Corrida
+Gabriela,Masculino,38,Rio de Janeiro,RJ,Vasco,7145.84,Corrida
+João Lucas,Masculino,45,Santos,SP,São Paulo,3886.03,Tênis
+Brenda,Masculino,46,Contagem,MG,Atlético-MG,1636.1,Tênis
+Danilo,Feminino,29,Santa Maria,RS,Cruzeiro,5220.7,Basquete
+Maria Sophia,Masculino,28,Petrópolis,RJ,Grêmio,9122.33,Corrida
+Luana,Feminino,75,Pelotas,RS,Bahia,7269.95,Ciclismo
+Luna,Masculino,30,Caxias do Sul,RS,São Paulo,1268.82,Vôlei
+Amanda,Masculino,26,Campinas,SP,Flamengo,10548.12,Skate
+Calebe,Feminino,38,Campinas,SP,Flamengo,2133.59,Natação
+Camila,Feminino,66,Santos,SP,Flamengo,9466.4,Futebol
+Manuela,Masculino,50,Belo Horizonte,MG,Vasco,3271.83,Ciclismo
+Guilherme,Feminino,59,Porto Alegre,RS,Cruzeiro,9629.94,Ciclismo
+Luiz Felipe,Masculino,70,Petrópolis,RJ,São Paulo,13328.4,Vôlei
+Enzo,Masculino,57,Ribeirão Preto,SP,Palmeiras,3100.46,Skate
+Camila,Masculino,28,Ilhéus,BA,Palmeiras,14840.79,Ciclismo
+João Guilherme,Feminino,37,Santa Maria,RS,Palmeiras,3497.14,Corrida
+Diogo,Masculino,75,São Paulo,SP,Internacional,9050.9,Basquete
+Renan,Masculino,71,Volta Redonda,RJ,Flamengo,9800.85,Vôlei
+Gabrielly,Masculino,55,Salvador,BA,Vasco,4380.92,Corrida
+Mariana,Feminino,48,Juiz de Fora,MG,Corinthians,13004.94,Basquete
+Diego,Masculino,53,Niterói,RJ,Vasco,6329.37,Skate
+Luana,Feminino,78,Porto Alegre,RS,Palmeiras,10611.92,Futebol
+Ana Lívia,Masculino,26,Santa Maria,RS,Grêmio,6906.41,Ciclismo
+Breno,Feminino,33,Santa Maria,RS,Atlético-MG,11269.59,Tênis
+Caio,Feminino,25,Pelotas,RS,Palmeiras,4159.43,Vôlei
+Luna,Masculino,61,Niterói,RJ,Palmeiras,12967.66,Basquete
+João Guilherme,Feminino,45,Ribeirão Preto,SP,São Paulo,1260.09,Vôlei
+Yuri,Feminino,73,Contagem,MG,Cruzeiro,11682.6,Natação
+Raul,Masculino,39,Rio de Janeiro,RJ,Internacional,13396.23,Ciclismo
+Lara,Feminino,41,Porto Alegre,RS,Bahia,7149.78,Natação
+Miguel,Masculino,33,São Paulo,SP,Flamengo,1360.54,Natação
+Marina,Masculino,21,Volta Redonda,RJ,Bahia,14764.15,Ciclismo
+Joaquim,Feminino,33,São Paulo,SP,São Paulo,3312.77,Futebol
+Isabel,Masculino,43,Niterói,RJ,Corinthians,3180.54,Vôlei
+Pedro,Feminino,66,Salvador,BA,São Paulo,11319.59,Vôlei
+Maria Fernanda,Feminino,64,Campinas,SP,São Paulo,7570.61,Skate
+Cauê,Feminino,78,São Paulo,SP,Corinthians,9006.5,Natação
+Raquel,Masculino,57,Niterói,RJ,Cruzeiro,1407.52,Tênis
+Maria Sophia,Feminino,79,Santos,SP,Flamengo,6879.34,Ciclismo
+Caio,Masculino,28,Ilhéus,BA,Flamengo,14572.02,Futebol
+Helena,Feminino,48,Niterói,RJ,Grêmio,10306.95,Skate
+Rebeca,Feminino,53,Campinas,SP,Palmeiras,10406.39,Tênis
+Juan,Masculino,18,São Paulo,SP,Palmeiras,3027.13,Futebol
+Caio,Feminino,26,Belo Horizonte,MG,Grêmio,9270.91,Skate
+Augusto,Feminino,36,São Paulo,SP,Grêmio,8218.33,Futebol
+Pedro Henrique,Feminino,25,Niterói,RJ,Corinthians,14125.75,Vôlei
+João Pedro,Feminino,80,Caxias do Sul,RS,Bahia,6852.79,Basquete
+Luna,Masculino,23,São Paulo,SP,Grêmio,5217.76,Ciclismo
+Marina,Masculino,45,Niterói,RJ,Internacional,3096.89,Skate
+Brenda,Feminino,69,Petrópolis,RJ,Internacional,7835.34,Ciclismo
+Catarina,Masculino,28,Feira de Santana,BA,Corinthians,6849.1,Corrida
+Maria Fernanda,Masculino,63,Pelotas,RS,Palmeiras,7130.02,Natação
+Vitor,Feminino,42,Volta Redonda,RJ,Grêmio,13202.83,Corrida
+Leandro,Masculino,55,Petrópolis,RJ,Bahia,10246.15,Tênis
+Samuel,Feminino,69,Volta Redonda,RJ,Atlético-MG,4563.16,Skate
+Raul,Feminino,57,Petrópolis,RJ,São Paulo,13074.72,Corrida
+Thiago,Masculino,39,Contagem,MG,Internacional,13546.16,Ciclismo
+Ana Lívia,Feminino,68,Niterói,RJ,Palmeiras,7742.87,Skate
+Noah,Feminino,20,Niterói,RJ,Corinthians,13812.1,Tênis
+Carlos Eduardo,Masculino,53,Uberlândia,MG,Vasco,4012.36,Natação
+Marcela,Feminino,37,Caxias do Sul,RS,Corinthians,4061.15,Basquete
+Emanuelly,Feminino,22,Niterói,RJ,Palmeiras,1408.81,Skate
+Gabrielly,Masculino,57,Juiz de Fora,MG,Palmeiras,2293.14,Corrida
+Emanuella,Masculino,19,Juiz de Fora,MG,Atlético-MG,14261.44,Skate
+Theo,Feminino,77,Santos,SP,Corinthians,5767.81,Tênis
+Pedro,Masculino,40,Petrópolis,RJ,Cruzeiro,13738.48,Vôlei
+João Vitor,Masculino,73,Belo Horizonte,MG,Vasco,3767.83,Skate
+Pietro,Feminino,18,Vitória da Conquista,BA,São Paulo,8331.91,Vôlei
+Bianca,Feminino,51,Porto Alegre,RS,Corinthians,8688.01,Natação
+Mariane,Feminino,24,Belo Horizonte,MG,Bahia,8474.28,Tênis
+Catarina,Masculino,44,Pelotas,RS,Bahia,10990.12,Futebol
+Davi Lucca,Feminino,33,Campinas,SP,Grêmio,10971.94,Skate
+Renan,Feminino,78,Campinas,SP,Palmeiras,5099.05,Tênis
+Olivia,Masculino,48,Petrópolis,RJ,Vasco,13879.47,Corrida
+Letícia,Masculino,24,Santos,SP,São Paulo,2697.23,Basquete
+Alana,Masculino,65,Volta Redonda,RJ,Grêmio,11263.49,Corrida
+Vicente,Feminino,32,Vitória da Conquista,BA,Corinthians,4163.6,Ciclismo
+Carolina,Feminino,66,Pelotas,RS,Corinthians,4994.05,Vôlei
+Ana Luiza,Masculino,57,Salvador,BA,Vasco,5352.05,Ciclismo
+Caio,Feminino,22,Ilhéus,BA,Atlético-MG,10092.24,Ciclismo
+João Vitor,Feminino,37,Volta Redonda,RJ,Cruzeiro,12087.61,Futebol
+Luiz Gustavo,Feminino,42,Feira de Santana,BA,Bahia,14835.81,Corrida
+Cecília,Feminino,65,Uberlândia,MG,Cruzeiro,3684.06,Tênis
+Maria Julia,Masculino,38,Feira de Santana,BA,Atlético-MG,7061.75,Futebol
+Pedro Henrique,Feminino,28,Santos,SP,Grêmio,8684.63,Skate
+Catarina,Feminino,44,São Paulo,SP,Atlético-MG,9083.23,Futebol
+Eduardo,Masculino,69,Ribeirão Preto,SP,Bahia,14597.79,Natação
+Luigi,Feminino,58,São Paulo,SP,Vasco,13537.71,Vôlei
+Isabel,Masculino,38,Salvador,BA,Grêmio,14324.89,Basquete
+Maria Julia,Feminino,62,Vitória da Conquista,BA,Flamengo,7878.49,Tênis
+Gustavo,Feminino,71,Pelotas,RS,Corinthians,13013.69,Basquete
+João Felipe,Masculino,38,Ilhéus,BA,Corinthians,3947.79,Futebol
+Clara,Feminino,42,Petrópolis,RJ,Grêmio,1570.02,Skate
+Isaac,Masculino,26,São Paulo,SP,Flamengo,14213.94,Basquete
+Ana Julia,Feminino,49,Belo Horizonte,MG,Grêmio,13166.43,Natação
+Helena,Feminino,36,São Paulo,SP,Vasco,4987.31,Skate
+Julia,Masculino,55,Contagem,MG,Cruzeiro,11285.44,Skate
+Marcos Vinicius,Masculino,42,Porto Alegre,RS,São Paulo,13841.67,Corrida
+Julia,Masculino,24,Campinas,SP,Palmeiras,1419.01,Futebol
+Davi,Feminino,49,Ilhéus,BA,Corinthians,7101.24,Natação
+Laura,Masculino,65,Campinas,SP,Cruzeiro,5671.17,Corrida
+Emanuel,Feminino,36,Juiz de Fora,MG,Grêmio,12707.61,Tênis
+Anthony,Feminino,61,Ilhéus,BA,Bahia,8769.18,Basquete
+Maria Vitória,Masculino,31,Ribeirão Preto,SP,Atlético-MG,14190.64,Natação
+João Gabriel,Feminino,24,Niterói,RJ,Vasco,2705.08,Vôlei
+Samuel,Masculino,34,Niterói,RJ,Bahia,1393.94,Vôlei
+Cauê,Feminino,43,Pelotas,RS,Corinthians,4162.01,Skate
+Thomas,Feminino,76,Feira de Santana,BA,Atlético-MG,8243.66,Futebol
+Lívia,Masculino,58,Belo Horizonte,MG,São Paulo,5314.79,Corrida
+Lucas Gabriel,Feminino,62,Santa Maria,RS,Grêmio,2510.25,Vôlei
+Daniela,Masculino,53,Juiz de Fora,MG,São Paulo,13108.48,Skate
+Yasmin,Feminino,40,Caxias do Sul,RS,São Paulo,8190.27,Basquete
+Thomas,Feminino,51,Salvador,BA,Cruzeiro,14859.42,Vôlei
+Yuri,Feminino,70,Belo Horizonte,MG,Flamengo,1249.71,Basquete
+Heloísa,Masculino,64,Salvador,BA,Palmeiras,9415.97,Natação
+Paulo,Masculino,53,Campinas,SP,São Paulo,12885.76,Vôlei
+João Pedro,Feminino,57,Ilhéus,BA,Flamengo,4488.94,Futebol
+Nina,Masculino,58,Ribeirão Preto,SP,Atlético-MG,2630.13,Vôlei
+Marcela,Masculino,27,Porto Alegre,RS,Cruzeiro,4149.79,Futebol
+Guilherme,Masculino,36,Juiz de Fora,MG,Vasco,14911.4,Tênis
+Alana,Feminino,33,Porto Alegre,RS,Bahia,10937.6,Basquete
+Luiz Henrique,Masculino,33,São Paulo,SP,São Paulo,10240.39,Vôlei
+Stella,Masculino,51,Petrópolis,RJ,Atlético-MG,4875.01,Basquete
+Isis,Feminino,28,Campinas,SP,Cruzeiro,11487.65,Vôlei
+Sabrina,Feminino,64,Petrópolis,RJ,Atlético-MG,11616.98,Futebol
+Guilherme,Masculino,60,Santa Maria,RS,Grêmio,13135.95,Skate
+Nathan,Feminino,39,Pelotas,RS,Corinthians,9003.96,Tênis
+Igor,Feminino,50,Santos,SP,Vasco,14566.53,Ciclismo
+Sofia,Masculino,67,Campinas,SP,Internacional,11265.48,Tênis
+Alexandre,Feminino,76,Juiz de Fora,MG,Flamengo,11589.88,Corrida
+Fernanda,Feminino,22,Rio de Janeiro,RJ,Cruzeiro,7942.59,Basquete
+Murilo,Masculino,53,Contagem,MG,Flamengo,12581.74,Ciclismo
+Isadora,Feminino,39,Niterói,RJ,Corinthians,11989.96,Tênis
+Olivia,Masculino,72,Uberlândia,MG,Palmeiras,14557.08,Futebol
+Eduarda,Feminino,76,Belo Horizonte,MG,Flamengo,3745.3,Vôlei
+Luiza,Masculino,21,Rio de Janeiro,RJ,Vasco,3388.15,Ciclismo
+Maria Fernanda,Masculino,54,Volta Redonda,RJ,Atlético-MG,7981.26,Ciclismo
+Elisa,Feminino,48,Ilhéus,BA,Flamengo,12276.37,Vôlei
+Mirella,Masculino,24,Caxias do Sul,RS,Palmeiras,4521.35,Ciclismo
+Breno,Masculino,62,Rio de Janeiro,RJ,Vasco,14679.62,Natação
+Lucca,Masculino,32,Santos,SP,Bahia,9827.12,Skate
+Fernanda,Masculino,36,Campinas,SP,Vasco,4100.76,Vôlei
+Isadora,Masculino,18,Santa Maria,RS,São Paulo,5444.46,Skate
+Theo,Feminino,76,Volta Redonda,RJ,Palmeiras,5923.0,Futebol
+Maria Sophia,Masculino,72,Santa Maria,RS,São Paulo,6156.4,Natação
+Cauã,Feminino,60,Petrópolis,RJ,Corinthians,7224.68,Basquete
+Thales,Masculino,50,Niterói,RJ,São Paulo,5029.28,Tênis
+Gabrielly,Feminino,69,Porto Alegre,RS,Atlético-MG,14409.35,Skate
+Marcelo,Masculino,26,Santa Maria,RS,Cruzeiro,8973.24,Vôlei
+Igor,Feminino,63,Feira de Santana,BA,São Paulo,9701.79,Tênis
+Daniela,Masculino,52,Ilhéus,BA,Vasco,13479.37,Ciclismo
+Davi Luiz,Feminino,20,Ribeirão Preto,SP,Internacional,2931.57,Basquete
+Augusto,Feminino,33,Santa Maria,RS,Cruzeiro,10033.15,Corrida
+Lucas,Masculino,52,Salvador,BA,Corinthians,6714.72,Skate
+Marcos Vinicius,Masculino,34,São Paulo,SP,Flamengo,11802.76,Corrida
+Thomas,Masculino,41,Uberlândia,MG,Atlético-MG,2694.88,Skate
+Davi Luiz,Feminino,22,Niterói,RJ,Vasco,9601.97,Corrida
+Renan,Masculino,70,Petrópolis,RJ,Vasco,6733.42,Ciclismo
+Rebeca,Feminino,61,São Paulo,SP,Internacional,4689.84,Vôlei
+Gustavo,Feminino,77,Vitória da Conquista,BA,Flamengo,11587.93,Vôlei
+Vitor Hugo,Masculino,47,Santos,SP,Internacional,7903.92,Ciclismo
+Lucas,Feminino,33,Ribeirão Preto,SP,Corinthians,12675.72,Skate
+Marcela,Masculino,73,Contagem,MG,Internacional,4165.52,Corrida
+Carolina,Feminino,71,Ilhéus,BA,Grêmio,6601.13,Natação
+Maria Fernanda,Feminino,55,Caxias do Sul,RS,Palmeiras,13130.29,Skate
+Sofia,Masculino,21,Porto Alegre,RS,Grêmio,5275.35,Ciclismo
+Nathan,Feminino,26,Niterói,RJ,Vasco,3873.49,Basquete
+Enzo,Feminino,66,Ribeirão Preto,SP,Vasco,8338.88,Natação
+Luiz Gustavo,Masculino,23,Juiz de Fora,MG,Flamengo,10650.49,Natação
+Helena,Masculino,70,Porto Alegre,RS,Cruzeiro,4602.95,Natação
+Gabriel,Masculino,80,Contagem,MG,Corinthians,10482.9,Natação
+Alícia,Feminino,29,Uberlândia,MG,Bahia,3925.11,Basquete
+Milena,Feminino,39,Feira de Santana,BA,Palmeiras,11844.56,Skate
+Giovanna,Masculino,25,Vitória da Conquista,BA,Corinthians,7318.89,Vôlei
+Bernardo,Masculino,44,São Paulo,SP,Atlético-MG,8588.03,Natação
+Antônio,Masculino,23,Caxias do Sul,RS,São Paulo,12146.49,Vôlei
+Maria Julia,Masculino,38,Pelotas,RS,Grêmio,8112.52,Tênis
+Davi Luiz,Feminino,29,Rio de Janeiro,RJ,Corinthians,11639.71,Natação
+Thomas,Feminino,60,Rio de Janeiro,RJ,Cruzeiro,2074.67,Natação
+Kevin,Masculino,71,Juiz de Fora,MG,Bahia,10290.81,Tênis
+Yago,Feminino,67,São Paulo,SP,Grêmio,14311.88,Basquete
+Ana Vitória,Masculino,58,Niterói,RJ,Vasco,11619.83,Natação
+Bianca,Masculino,19,Vitória da Conquista,BA,Atlético-MG,8775.81,Natação
+Daniela,Feminino,26,Petrópolis,RJ,Atlético-MG,7570.19,Vôlei
+Rafaela,Masculino,34,Ilhéus,BA,Grêmio,12077.95,Natação
+Ana Clara,Feminino,29,Feira de Santana,BA,Atlético-MG,1425.61,Skate
+Kamilly,Masculino,22,Rio de Janeiro,RJ,Cruzeiro,12319.23,Skate
+Lavínia,Feminino,52,Salvador,BA,Vasco,14069.05,Skate
+Maitê,Feminino,32,Ribeirão Preto,SP,Cruzeiro,8885.93,Ciclismo
+Lara,Feminino,60,Contagem,MG,Flamengo,13701.34,Futebol
+Bernardo,Feminino,60,Ilhéus,BA,Corinthians,12883.49,Natação
+Luiza,Masculino,24,Vitória da Conquista,BA,São Paulo,5368.52,Vôlei
+Henrique,Feminino,53,Pelotas,RS,Corinthians,3845.97,Ciclismo
+Lara,Masculino,57,Caxias do Sul,RS,Bahia,3741.73,Natação
+Isadora,Feminino,52,Campinas,SP,Corinthians,14641.07,Basquete
+Fernando,Feminino,31,Niterói,RJ,São Paulo,9388.7,Skate
+Ana Lívia,Feminino,19,Porto Alegre,RS,Bahia,3960.24,Basquete
+Sofia,Masculino,50,Volta Redonda,RJ,Flamengo,7537.88,Ciclismo
+Emanuella,Masculino,62,Porto Alegre,RS,Grêmio,7847.21,Natação
+Guilherme,Feminino,38,Contagem,MG,Palmeiras,10334.55,Tênis
+Clara,Masculino,18,Ilhéus,BA,Palmeiras,10255.21,Corrida
+Lorenzo,Feminino,37,Uberlândia,MG,São Paulo,7864.02,Natação
+Lara,Masculino,77,Ilhéus,BA,Atlético-MG,9504.8,Skate
+Manuela,Feminino,39,Caxias do Sul,RS,Cruzeiro,11601.88,Ciclismo
+Stella,Feminino,30,Volta Redonda,RJ,Grêmio,10500.46,Natação
+Thales,Masculino,64,Ilhéus,BA,Grêmio,1875.47,Natação
+Alana,Masculino,37,Salvador,BA,São Paulo,3531.23,Corrida
+Carlos Eduardo,Feminino,60,Rio de Janeiro,RJ,Vasco,4286.32,Basquete
+Lorena,Masculino,43,Campinas,SP,Cruzeiro,9051.13,Corrida
+Benjamin,Masculino,70,Rio de Janeiro,RJ,Grêmio,13542.66,Tênis
+Maria Sophia,Feminino,41,Juiz de Fora,MG,Grêmio,6060.07,Vôlei
+Rodrigo,Masculino,38,Campinas,SP,Grêmio,3083.14,Futebol
+Francisco,Masculino,50,Contagem,MG,Palmeiras,14208.62,Futebol
+Emanuella,Masculino,29,Feira de Santana,BA,Internacional,5359.19,Skate
+Valentina,Feminino,78,Pelotas,RS,Grêmio,3633.95,Natação
+Alexia,Masculino,73,Vitória da Conquista,BA,Flamengo,11055.76,Skate
+Caio,Feminino,31,Salvador,BA,Internacional,10309.67,Ciclismo
+Davi Lucas,Masculino,57,Petrópolis,RJ,Atlético-MG,13988.24,Natação
+Isadora,Masculino,65,Juiz de Fora,MG,Vasco,11251.06,Skate
+Antônio,Feminino,38,Volta Redonda,RJ,Vasco,11401.43,Skate
+Laura,Masculino,61,Campinas,SP,Internacional,11649.98,Skate
+Maitê,Feminino,59,Petrópolis,RJ,Internacional,7358.89,Basquete
+Maria Alice,Feminino,35,Feira de Santana,BA,Cruzeiro,7331.11,Basquete
+Ana Luiza,Masculino,29,Pelotas,RS,Bahia,1637.09,Basquete
+Ana Laura,Feminino,29,Pelotas,RS,Bahia,13552.6,Basquete
+Raquel,Masculino,42,Caxias do Sul,RS,Vasco,3361.31,Tênis
+Enzo,Feminino,47,Ilhéus,BA,Internacional,2204.46,Basquete
+Rafael,Feminino,65,Porto Alegre,RS,Palmeiras,13078.68,Corrida
+Gabriela,Feminino,18,Ribeirão Preto,SP,Vasco,6526.98,Basquete
+Paulo,Masculino,39,Santos,SP,Internacional,13166.78,Natação
+Sophie,Masculino,67,Ribeirão Preto,SP,Internacional,7183.79,Ciclismo
+Melissa,Feminino,46,Niterói,RJ,Atlético-MG,13034.38,Vôlei
+Heloísa,Feminino,19,Salvador,BA,Bahia,7294.69,Basquete
+Erick,Feminino,41,Feira de Santana,BA,Bahia,5564.64,Corrida
+Murilo,Feminino,78,Feira de Santana,BA,Atlético-MG,5890.68,Corrida
+Guilherme,Feminino,68,Feira de Santana,BA,Vasco,6702.4,Skate
+Rafaela,Feminino,76,Salvador,BA,Grêmio,1280.55,Futebol
+Arthur,Masculino,57,Niterói,RJ,São Paulo,5147.23,Futebol
+Lavínia,Feminino,38,Rio de Janeiro,RJ,Corinthians,9602.36,Natação
+Davi Luiz,Feminino,62,Niterói,RJ,Internacional,1856.5,Tênis
+Pietra,Feminino,42,Niterói,RJ,Atlético-MG,2127.76,Skate
+Rodrigo,Feminino,18,Niterói,RJ,Vasco,5011.07,Basquete
+Isabelly,Masculino,21,Juiz de Fora,MG,São Paulo,14062.54,Ciclismo
+Juan,Feminino,76,Porto Alegre,RS,São Paulo,13793.8,Corrida
+Luiz Felipe,Masculino,64,Belo Horizonte,MG,Flamengo,4646.24,Tênis
+Leandro,Feminino,56,Juiz de Fora,MG,Grêmio,13850.6,Skate
+Maria Luiza,Masculino,68,São Paulo,SP,Bahia,7939.3,Tênis
+André,Feminino,20,Contagem,MG,Palmeiras,14918.54,Natação
+Mariana,Feminino,69,Contagem,MG,Bahia,9920.23,Natação
+Maria Julia,Feminino,33,Rio de Janeiro,RJ,Vasco,14033.69,Skate
+Emanuel,Feminino,48,Salvador,BA,Bahia,10061.22,Skate
+Clara,Masculino,40,Porto Alegre,RS,Flamengo,9480.47,Tênis
+Luna,Masculino,76,Volta Redonda,RJ,Bahia,10694.26,Tênis
+Luiza,Feminino,49,Porto Alegre,RS,Vasco,8759.81,Corrida
+Mariana,Masculino,44,Ribeirão Preto,SP,Corinthians,8926.25,Vôlei
+Alexandre,Masculino,57,Santos,SP,Flamengo,9605.81,Natação
+Leandro,Masculino,27,Ribeirão Preto,SP,Palmeiras,3187.78,Natação
+Alice,Masculino,22,Feira de Santana,BA,Cruzeiro,4277.9,Vôlei
+Vitor,Masculino,18,Salvador,BA,Corinthians,5550.95,Skate
+Emanuelly,Masculino,70,Uberlândia,MG,Vasco,10602.18,Skate
+Joaquim,Feminino,27,Vitória da Conquista,BA,São Paulo,2304.43,Natação
+Nicole,Masculino,49,Rio de Janeiro,RJ,Atlético-MG,2127.13,Futebol
+Esther,Feminino,59,Petrópolis,RJ,Palmeiras,9741.8,Ciclismo
+Ana Clara,Feminino,41,Contagem,MG,São Paulo,5249.6,Vôlei
+Ana Sophia,Masculino,39,Petrópolis,RJ,Palmeiras,4747.68,Basquete
+Sophia,Feminino,19,Niterói,RJ,Flamengo,12120.07,Basquete
+Eduardo,Masculino,18,Feira de Santana,BA,Flamengo,5814.36,Tênis
+João,Feminino,65,Belo Horizonte,MG,Atlético-MG,13824.61,Ciclismo
+Luiz Gustavo,Masculino,27,Caxias do Sul,RS,Palmeiras,12193.77,Corrida
+Maria Clara,Feminino,66,Pelotas,RS,Palmeiras,10311.87,Tênis
+Evelyn,Feminino,80,Petrópolis,RJ,Bahia,9606.42,Futebol
+Eloah,Masculino,56,Vitória da Conquista,BA,Internacional,14929.05,Natação
+Thomas,Masculino,31,Porto Alegre,RS,Grêmio,4980.54,Tênis
+Danilo,Masculino,63,Santos,SP,Grêmio,2787.74,Basquete
+Bruno,Masculino,65,Santa Maria,RS,Corinthians,2759.9,Futebol
+Nicolas,Feminino,19,São Paulo,SP,Bahia,7210.56,Vôlei
+Augusto,Masculino,62,Rio de Janeiro,RJ,Vasco,14191.35,Natação
+Renan,Masculino,52,Belo Horizonte,MG,Bahia,4188.71,Skate
+Maria Vitória,Feminino,39,Porto Alegre,RS,Atlético-MG,12142.97,Ciclismo
+Pietra,Feminino,42,Vitória da Conquista,BA,Cruzeiro,12668.67,Ciclismo
+Vitor Hugo,Feminino,71,Juiz de Fora,MG,Corinthians,8774.48,Vôlei
+Pietra,Masculino,68,Uberlândia,MG,Internacional,14705.07,Futebol
+Fernando,Feminino,38,Belo Horizonte,MG,Flamengo,5888.37,Basquete
+Bianca,Masculino,73,Juiz de Fora,MG,Bahia,4475.42,Tênis
+Davi Luiz,Feminino,73,Ribeirão Preto,SP,São Paulo,9492.66,Corrida
+Luiz Miguel,Feminino,28,Salvador,BA,Internacional,6998.68,Corrida
+Nina,Masculino,54,Uberlândia,MG,Internacional,9877.47,Natação
+Isaac,Masculino,22,Santa Maria,RS,Bahia,7856.39,Ciclismo
+Noah,Feminino,46,São Paulo,SP,Palmeiras,13129.87,Corrida
+Bianca,Feminino,36,Uberlândia,MG,Palmeiras,5638.76,Vôlei
+Yago,Feminino,19,Santa Maria,RS,Palmeiras,3777.19,Ciclismo
+Davi,Masculino,26,Petrópolis,RJ,Vasco,9081.37,Tênis
+Ana Júlia,Feminino,33,Rio de Janeiro,RJ,Grêmio,1593.27,Vôlei
+Ana Sophia,Feminino,79,Contagem,MG,Atlético-MG,7075.88,Futebol
+Laura,Masculino,55,Santa Maria,RS,Vasco,13674.43,Corrida
+Maria Clara,Masculino,26,Caxias do Sul,RS,São Paulo,3654.12,Futebol
+Isabelly,Masculino,44,Contagem,MG,Flamengo,4224.49,Corrida
+Calebe,Feminino,20,Pelotas,RS,Atlético-MG,4397.06,Skate
+Pedro,Masculino,45,Caxias do Sul,RS,Palmeiras,4638.56,Basquete
+Yasmin,Feminino,72,Rio de Janeiro,RJ,Grêmio,7424.26,Ciclismo
+Sophie,Feminino,79,Belo Horizonte,MG,Atlético-MG,3317.79,Corrida
+Vitória,Feminino,21,Niterói,RJ,Cruzeiro,12570.72,Futebol
+Guilherme,Masculino,20,Uberlândia,MG,Corinthians,3643.32,Skate
+Yago,Masculino,48,Porto Alegre,RS,Cruzeiro,3965.71,Futebol
+Calebe,Masculino,20,Campinas,SP,Corinthians,7937.91,Basquete
+Pedro,Feminino,23,Vitória da Conquista,BA,Grêmio,1586.09,Skate
+Vitor Hugo,Feminino,62,Pelotas,RS,São Paulo,4249.86,Futebol
+Ana Lívia,Masculino,27,Santa Maria,RS,Cruzeiro,3849.71,Vôlei
+Ana,Feminino,33,Salvador,BA,Grêmio,7250.37,Corrida
+Stella,Masculino,45,Caxias do Sul,RS,Bahia,4090.51,Ciclismo
+Catarina,Feminino,58,Pelotas,RS,Bahia,9734.76,Ciclismo
+Erick,Masculino,72,Belo Horizonte,MG,Internacional,2723.65,Skate
+Vitor Gabriel,Masculino,34,Vitória da Conquista,BA,Bahia,7606.25,Basquete
+Lara,Masculino,65,Salvador,BA,Flamengo,4994.49,Tênis
+Diego,Feminino,72,Santos,SP,Internacional,1985.07,Tênis
+Thales,Masculino,37,Feira de Santana,BA,Atlético-MG,6524.14,Futebol
+Maria Julia,Feminino,22,Volta Redonda,RJ,Bahia,13146.7,Ciclismo
+Gustavo Henrique,Feminino,61,Vitória da Conquista,BA,Grêmio,14685.63,Futebol
+Maria Eduarda,Masculino,72,Pelotas,RS,Cruzeiro,3701.22,Natação
+Maitê,Feminino,40,Belo Horizonte,MG,Atlético-MG,13567.15,Tênis
+Theo,Feminino,27,Rio de Janeiro,RJ,Atlético-MG,10261.48,Ciclismo
+Daniel,Feminino,60,Salvador,BA,Cruzeiro,11519.16,Natação
+Luana,Masculino,28,Pelotas,RS,Vasco,1337.06,Ciclismo
+Theo,Masculino,52,Feira de Santana,BA,Flamengo,3049.62,Natação
+João Gabriel,Feminino,20,Volta Redonda,RJ,Flamengo,14223.81,Vôlei
+Letícia,Feminino,74,Pelotas,RS,Flamengo,4388.5,Corrida
+Rodrigo,Masculino,28,Feira de Santana,BA,Cruzeiro,2358.11,Vôlei
+Vitor,Feminino,18,São Paulo,SP,Vasco,13141.31,Ciclismo
+Danilo,Feminino,19,Belo Horizonte,MG,Cruzeiro,2285.21,Natação
+Clarice,Masculino,49,Santos,SP,Cruzeiro,3502.67,Natação
+Cecília,Masculino,28,Ribeirão Preto,SP,Palmeiras,13174.72,Tênis
+Enrico,Feminino,70,Caxias do Sul,RS,Flamengo,6937.29,Skate
+Ana Clara,Masculino,68,Ilhéus,BA,Atlético-MG,14012.63,Tênis
+Evelyn,Masculino,75,Salvador,BA,Internacional,10045.32,Skate
+Giovanna,Feminino,55,Volta Redonda,RJ,Vasco,10352.72,Vôlei
+Eduarda,Masculino,68,Juiz de Fora,MG,São Paulo,3844.18,Basquete
+Ana Laura,Feminino,47,Vitória da Conquista,BA,Palmeiras,12513.01,Corrida
+Olivia,Feminino,18,Vitória da Conquista,BA,São Paulo,12059.74,Skate
+Pietro,Masculino,20,Porto Alegre,RS,Grêmio,12581.95,Futebol
+Ana,Feminino,57,Feira de Santana,BA,São Paulo,5490.53,Futebol
+Felipe,Masculino,33,Pelotas,RS,Bahia,7616.92,Futebol
+Alana,Feminino,65,Volta Redonda,RJ,Internacional,7406.3,Futebol
+Kevin,Masculino,64,Santa Maria,RS,Atlético-MG,13671.52,Tênis
+Maria Julia,Masculino,18,Volta Redonda,RJ,Corinthians,9785.26,Vôlei
+Bárbara,Feminino,73,São Paulo,SP,Cruzeiro,14311.49,Vôlei
+Guilherme,Masculino,75,Juiz de Fora,MG,Flamengo,4767.5,Natação
+Nathan,Feminino,19,Santa Maria,RS,Grêmio,3817.21,Basquete
+Ana Lívia,Feminino,61,Santa Maria,RS,Bahia,13295.27,Tênis
+Beatriz,Masculino,29,Campinas,SP,Bahia,13983.11,Basquete
+Isaac,Feminino,52,Feira de Santana,BA,Internacional,3903.12,Basquete
+Arthur,Feminino,39,Ribeirão Preto,SP,Flamengo,1200.13,Skate
+Anthony,Feminino,22,São Paulo,SP,Grêmio,12047.01,Vôlei
+Enrico,Masculino,65,Rio de Janeiro,RJ,Vasco,1246.84,Corrida
+Benjamin,Feminino,64,Volta Redonda,RJ,Corinthians,4644.44,Ciclismo
+João,Feminino,21,Uberlândia,MG,São Paulo,5611.18,Basquete
+João Vitor,Masculino,70,Pelotas,RS,Grêmio,14905.89,Vôlei
+Luna,Masculino,68,Salvador,BA,Cruzeiro,5272.45,Vôlei
+Manuela,Masculino,56,Belo Horizonte,MG,Bahia,11016.94,Ciclismo
+Sophie,Masculino,27,Niterói,RJ,Cruzeiro,10371.8,Basquete
+Maitê,Feminino,28,Petrópolis,RJ,Cruzeiro,12269.15,Vôlei
+Pedro Lucas,Masculino,41,Petrópolis,RJ,Grêmio,8229.52,Natação
+Bianca,Masculino,37,Feira de Santana,BA,Vasco,14675.99,Basquete
+João,Masculino,33,Ribeirão Preto,SP,Atlético-MG,1643.82,Basquete
+Pedro Miguel,Feminino,44,Contagem,MG,Atlético-MG,12981.42,Futebol
+Diego,Masculino,33,Ilhéus,BA,Cruzeiro,3179.54,Ciclismo
+Rodrigo,Feminino,59,Juiz de Fora,MG,Flamengo,13479.42,Corrida
+Bernardo,Masculino,73,Juiz de Fora,MG,Internacional,13410.04,Tênis
+Lorena,Masculino,40,Rio de Janeiro,RJ,Internacional,6381.99,Futebol
+Luigi,Masculino,34,São Paulo,SP,Atlético-MG,2050.16,Futebol
+Kamilly,Masculino,68,Santos,SP,Palmeiras,10335.28,Natação
+Natália,Masculino,67,São Paulo,SP,Flamengo,11001.99,Futebol
+Benício,Masculino,25,Santa Maria,RS,Atlético-MG,9330.13,Vôlei
+Henrique,Feminino,45,Salvador,BA,Bahia,8084.91,Tênis
+Ana Júlia,Masculino,20,Campinas,SP,Cruzeiro,11569.98,Basquete
+Pedro Lucas,Masculino,24,Uberlândia,MG,Internacional,10990.47,Basquete
+Paulo,Feminino,44,Rio de Janeiro,RJ,Grêmio,10811.31,Basquete
+Alice,Feminino,26,Salvador,BA,Bahia,9892.84,Futebol
+Carolina,Masculino,53,Porto Alegre,RS,Corinthians,2512.06,Basquete
+Ana Sophia,Masculino,19,Ribeirão Preto,SP,Corinthians,12009.07,Tênis
+Cauê,Masculino,74,Salvador,BA,Corinthians,5500.79,Futebol
+Stella,Feminino,22,Feira de Santana,BA,Bahia,1608.84,Basquete
+Isabel,Masculino,51,Porto Alegre,RS,Corinthians,5998.0,Ciclismo
+Catarina,Masculino,39,São Paulo,SP,Corinthians,11052.02,Natação
+Cauã,Feminino,33,Salvador,BA,Vasco,8893.01,Natação
+Sophia,Masculino,61,Caxias do Sul,RS,Vasco,9113.02,Natação
+Laura,Masculino,60,Belo Horizonte,MG,Vasco,14289.05,Vôlei
+Enzo Gabriel,Feminino,48,Rio de Janeiro,RJ,Vasco,5103.16,Skate
+Clarice,Masculino,38,Pelotas,RS,Grêmio,5268.6,Skate
+Larissa,Feminino,47,Juiz de Fora,MG,Vasco,11755.63,Basquete
+Clarice,Masculino,18,Pelotas,RS,São Paulo,2769.23,Ciclismo
+Maria Fernanda,Masculino,79,Campinas,SP,Palmeiras,8305.58,Natação
+Emilly,Masculino,39,São Paulo,SP,Atlético-MG,3192.27,Vôlei
+Noah,Feminino,56,Contagem,MG,Grêmio,2135.59,Natação
+Letícia,Masculino,47,Pelotas,RS,Corinthians,6008.93,Futebol
+Vinicius,Feminino,32,São Paulo,SP,Flamengo,12796.79,Tênis
+Catarina,Masculino,56,Campinas,SP,Grêmio,6350.22,Ciclismo
+Emanuelly,Masculino,35,Niterói,RJ,Grêmio,3821.67,Tênis
+João Vitor,Masculino,35,Ribeirão Preto,SP,Atlético-MG,13373.55,Skate
+Emanuella,Masculino,65,Santos,SP,Internacional,8302.86,Futebol
+Luiz Gustavo,Feminino,62,Contagem,MG,Vasco,8391.31,Vôlei
+Maria Cecília,Feminino,59,Uberlândia,MG,Palmeiras,11547.48,Ciclismo
+Emanuel,Masculino,78,Ribeirão Preto,SP,Flamengo,9379.11,Ciclismo
+Maria Alice,Feminino,71,Contagem,MG,Internacional,2628.75,Vôlei
+Arthur,Masculino,35,Vitória da Conquista,BA,Flamengo,7096.88,Tênis
+Ana Lívia,Masculino,59,Porto Alegre,RS,São Paulo,9211.04,Basquete
+Rodrigo,Masculino,62,Juiz de Fora,MG,Cruzeiro,10732.84,Basquete
+Pietra,Feminino,49,Niterói,RJ,São Paulo,10387.02,Futebol
+Ana,Masculino,45,Campinas,SP,São Paulo,6331.83,Natação
+Ana Carolina,Masculino,41,Petrópolis,RJ,Cruzeiro,11709.59,Tênis
+Lucas,Masculino,21,Juiz de Fora,MG,Flamengo,6679.6,Vôlei
+Lavínia,Feminino,40,Juiz de Fora,MG,Internacional,8173.95,Tênis
+Maria Fernanda,Feminino,67,Vitória da Conquista,BA,Vasco,7825.79,Basquete
+Alícia,Masculino,21,Uberlândia,MG,Atlético-MG,4450.16,Futebol
+Emanuel,Feminino,68,Caxias do Sul,RS,Atlético-MG,7762.27,Tênis
+Beatriz,Masculino,45,Ilhéus,BA,Flamengo,12785.19,Tênis
+Larissa,Feminino,35,Contagem,MG,Atlético-MG,3072.02,Futebol
+Natália,Feminino,28,Santa Maria,RS,Flamengo,5351.0,Tênis
+Rafael,Masculino,57,Uberlândia,MG,Flamengo,7206.08,Tênis
+Beatriz,Feminino,37,Petrópolis,RJ,Internacional,12795.86,Natação
+Bryan,Masculino,64,Feira de Santana,BA,Bahia,10530.64,Skate
+Heitor,Feminino,72,Contagem,MG,Cruzeiro,9843.69,Vôlei
+Maria Cecília,Masculino,58,Salvador,BA,Flamengo,8028.95,Basquete
+Eduardo,Feminino,66,Ribeirão Preto,SP,Internacional,10416.84,Basquete
+Guilherme,Feminino,63,Ribeirão Preto,SP,Corinthians,13056.97,Tênis
+Julia,Masculino,63,Santa Maria,RS,Grêmio,14467.56,Vôlei
+Stephany,Masculino,29,Petrópolis,RJ,Atlético-MG,2915.43,Futebol
+João Gabriel,Feminino,52,Ilhéus,BA,Internacional,13466.73,Natação
+Sophie,Feminino,18,Ribeirão Preto,SP,Corinthians,9627.58,Natação
+Nicolas,Masculino,29,Ribeirão Preto,SP,São Paulo,8219.54,Futebol
+Maria Luiza,Masculino,67,Ribeirão Preto,SP,Cruzeiro,4267.22,Vôlei
+Alana,Feminino,71,Feira de Santana,BA,Bahia,1203.02,Corrida
+Isabelly,Masculino,50,Volta Redonda,RJ,Flamengo,11106.74,Corrida
+Igor,Masculino,58,Porto Alegre,RS,Corinthians,14880.56,Tênis
+Brenda,Feminino,62,Volta Redonda,RJ,Bahia,13346.02,Skate
+Antônio,Feminino,25,Contagem,MG,Atlético-MG,7114.89,Vôlei
+Isadora,Masculino,45,Santa Maria,RS,Flamengo,13885.07,Tênis
+Theo,Masculino,34,Pelotas,RS,São Paulo,3051.24,Vôlei
+Luiza,Feminino,29,Uberlândia,MG,Grêmio,1491.45,Vôlei
+Lorena,Masculino,19,São Paulo,SP,Atlético-MG,4702.64,Vôlei
+Melissa,Masculino,20,Ilhéus,BA,Corinthians,4423.91,Futebol
+Bianca,Masculino,47,Caxias do Sul,RS,Corinthians,11580.2,Ciclismo
+Manuela,Feminino,19,Ilhéus,BA,Internacional,12785.89,Skate
+André,Masculino,52,São Paulo,SP,São Paulo,1490.86,Futebol
+Maria Eduarda,Masculino,64,Ribeirão Preto,SP,Vasco,2911.61,Basquete
+Ana Laura,Feminino,51,Feira de Santana,BA,Flamengo,13562.95,Tênis
+Calebe,Masculino,51,Caxias do Sul,RS,Flamengo,11371.96,Corrida
+Diego,Feminino,38,Santa Maria,RS,Corinthians,6038.39,Ciclismo
+Marcelo,Masculino,39,Campinas,SP,São Paulo,2136.48,Futebol
+Fernando,Feminino,39,Caxias do Sul,RS,Vasco,5530.45,Skate
+Anthony,Masculino,26,Feira de Santana,BA,Cruzeiro,8811.51,Basquete
+Luiz Otávio,Feminino,33,Belo Horizonte,MG,Cruzeiro,6738.1,Natação
+Alícia,Masculino,59,Juiz de Fora,MG,Flamengo,2412.29,Basquete
+Gustavo,Masculino,44,Petrópolis,RJ,Corinthians,2089.82,Skate
+Marcos Vinicius,Feminino,50,Rio de Janeiro,RJ,Flamengo,3614.0,Futebol
+Bryan,Masculino,64,Uberlândia,MG,Cruzeiro,14942.97,Skate
+Matheus,Masculino,67,Pelotas,RS,Flamengo,1818.53,Futebol
+Natália,Feminino,71,Juiz de Fora,MG,Bahia,9647.66,Skate
+Davi Lucca,Masculino,43,Juiz de Fora,MG,Vasco,3630.25,Vôlei
+João Pedro,Feminino,65,Uberlândia,MG,Bahia,2991.54,Basquete
+Rafaela,Feminino,69,Pelotas,RS,Cruzeiro,3514.97,Natação
+Eduardo,Feminino,53,Ribeirão Preto,SP,Cruzeiro,10298.0,Ciclismo
+Stella,Feminino,57,Petrópolis,RJ,Vasco,8132.34,Tênis
+Luana,Masculino,64,São Paulo,SP,Vasco,12715.98,Tênis
+Caroline,Feminino,33,Porto Alegre,RS,Flamengo,1994.92,Basquete
+Sabrina,Masculino,53,Contagem,MG,Palmeiras,12127.73,Tênis
+Bryan,Feminino,50,Salvador,BA,Bahia,10649.34,Basquete
+Alice,Masculino,20,Vitória da Conquista,BA,Cruzeiro,8435.84,Skate
+Gabriel,Feminino,47,Santa Maria,RS,Cruzeiro,1242.99,Corrida
+Francisco,Masculino,18,Contagem,MG,Corinthians,10916.66,Basquete
+Ana Lívia,Masculino,61,São Paulo,SP,Bahia,9868.55,Corrida
+Davi Lucca,Feminino,59,Volta Redonda,RJ,Cruzeiro,5654.84,Vôlei
+Heloísa,Masculino,64,Pelotas,RS,Corinthians,7779.55,Corrida
+Bárbara,Feminino,63,Contagem,MG,Internacional,2797.99,Futebol
+Luiz Henrique,Masculino,38,Niterói,RJ,Atlético-MG,9035.92,Vôlei
+Luiz Henrique,Masculino,38,Santos,SP,São Paulo,10024.15,Tênis
+Samuel,Masculino,20,Rio de Janeiro,RJ,Corinthians,9849.63,Tênis
+Guilherme,Feminino,64,Salvador,BA,São Paulo,3273.83,Natação
+Juan,Feminino,26,Salvador,BA,Internacional,8741.01,Ciclismo
+Yuri,Feminino,38,São Paulo,SP,Grêmio,5959.68,Futebol
+Gabriel,Feminino,63,Salvador,BA,Atlético-MG,6316.18,Natação
+Maria Sophia,Feminino,43,Niterói,RJ,Corinthians,13585.07,Ciclismo
+Brenda,Masculino,71,Volta Redonda,RJ,Internacional,8155.77,Basquete
+Lucas Gabriel,Feminino,73,Rio de Janeiro,RJ,Cruzeiro,3041.02,Skate
+Isadora,Feminino,74,Niterói,RJ,Cruzeiro,14742.35,Tênis
+Joaquim,Feminino,49,Ilhéus,BA,Corinthians,1738.74,Ciclismo
+Davi Lucas,Feminino,80,Volta Redonda,RJ,Corinthians,9318.7,Futebol
+Yago,Feminino,27,Campinas,SP,Flamengo,8882.88,Natação
+Evelyn,Feminino,60,Vitória da Conquista,BA,Corinthians,2011.55,Skate
+Murilo,Feminino,48,Ilhéus,BA,Flamengo,11144.32,Tênis
+Luiz Felipe,Feminino,28,Juiz de Fora,MG,Palmeiras,13565.96,Vôlei
+Manuela,Feminino,23,Niterói,RJ,Vasco,13477.82,Natação
+Sophie,Masculino,67,Juiz de Fora,MG,Cruzeiro,2609.06,Skate
+Benício,Masculino,79,Santos,SP,Internacional,12319.11,Ciclismo
+Ana Lívia,Feminino,59,Porto Alegre,RS,Flamengo,3463.41,Skate
+Beatriz,Feminino,42,Campinas,SP,Flamengo,8809.27,Ciclismo
+Maysa,Feminino,32,Pelotas,RS,Atlético-MG,5565.27,Vôlei
+Matheus,Feminino,75,Santa Maria,RS,Internacional,4242.06,Skate
+Lavínia,Masculino,19,Rio de Janeiro,RJ,Bahia,1663.6,Vôlei
+Diego,Masculino,80,Ilhéus,BA,Internacional,8472.88,Corrida
+Helena,Masculino,34,Campinas,SP,Bahia,13995.07,Skate
+Alana,Feminino,69,Santa Maria,RS,Palmeiras,9529.21,Futebol
+Lorenzo,Feminino,34,Santa Maria,RS,Corinthians,13369.29,Corrida
+Alícia,Feminino,24,Volta Redonda,RJ,Flamengo,4418.29,Corrida
+Alexandre,Masculino,69,Ilhéus,BA,Grêmio,8187.82,Skate
+Mariana,Masculino,61,Pelotas,RS,Grêmio,12957.49,Ciclismo
+Letícia,Feminino,46,Pelotas,RS,Grêmio,7210.5,Skate
+Maria Clara,Masculino,30,Feira de Santana,BA,Flamengo,6029.77,Ciclismo
+Davi,Masculino,21,Feira de Santana,BA,Cruzeiro,4168.15,Ciclismo
+Pietro,Masculino,33,Ilhéus,BA,Grêmio,6375.21,Tênis
+Giovanna,Feminino,59,Belo Horizonte,MG,Atlético-MG,1668.06,Basquete
+Carolina,Feminino,79,Santa Maria,RS,Flamengo,4158.62,Ciclismo
+Daniel,Feminino,75,Volta Redonda,RJ,Corinthians,6458.86,Futebol
+Giovanna,Feminino,59,Salvador,BA,Grêmio,4579.59,Futebol
+Gustavo,Masculino,55,Ribeirão Preto,SP,Vasco,14395.05,Skate
+Cecília,Masculino,63,Petrópolis,RJ,Vasco,11595.4,Futebol
+Vicente,Masculino,80,Volta Redonda,RJ,Corinthians,10762.17,Basquete
+Lívia,Masculino,80,São Paulo,SP,São Paulo,5509.66,Basquete
+Emanuella,Masculino,49,Porto Alegre,RS,Grêmio,11702.56,Tênis
+Luiz Miguel,Feminino,67,Porto Alegre,RS,Vasco,2313.63,Tênis
+Kamilly,Masculino,31,Contagem,MG,Bahia,14805.8,Skate
+Luigi,Masculino,64,Santos,SP,Cruzeiro,5374.49,Skate
+Otávio,Feminino,73,Volta Redonda,RJ,Vasco,4434.03,Futebol
+Heloísa,Masculino,32,Vitória da Conquista,BA,Internacional,4340.0,Skate
+Maria Sophia,Feminino,73,Feira de Santana,BA,Cruzeiro,10652.4,Tênis
+Ryan,Feminino,35,Santos,SP,Atlético-MG,8132.87,Ciclismo
+Isaac,Masculino,39,Petrópolis,RJ,Corinthians,10328.29,Ciclismo
+Sabrina,Feminino,26,Feira de Santana,BA,Vasco,2138.5,Tênis
+Henrique,Feminino,41,Petrópolis,RJ,Palmeiras,12348.43,Corrida
+Ana Carolina,Feminino,72,Petrópolis,RJ,Palmeiras,2336.37,Vôlei
+Theo,Feminino,77,Caxias do Sul,RS,Cruzeiro,11384.25,Tênis
+Bárbara,Feminino,75,Rio de Janeiro,RJ,Palmeiras,9402.43,Skate
+Carlos Eduardo,Masculino,69,Caxias do Sul,RS,Grêmio,8991.23,Futebol
+Maria,Feminino,56,Contagem,MG,Bahia,8494.99,Skate
+Stella,Masculino,22,Uberlândia,MG,São Paulo,11915.19,Natação
+Bryan,Masculino,37,Juiz de Fora,MG,Atlético-MG,2264.24,Natação
+Helena,Feminino,20,Petrópolis,RJ,Internacional,9491.9,Futebol
+Murilo,Masculino,54,Ribeirão Preto,SP,Corinthians,4630.89,Ciclismo
+Júlia,Feminino,23,Uberlândia,MG,Internacional,10372.34,Corrida
+Vicente,Masculino,52,Caxias do Sul,RS,Bahia,6948.33,Natação
+Laura,Masculino,58,Ilhéus,BA,Bahia,8317.61,Corrida
+Elisa,Feminino,30,Vitória da Conquista,BA,Atlético-MG,7533.37,Skate
+Bruno,Feminino,18,Porto Alegre,RS,Grêmio,13608.04,Futebol
+Noah,Feminino,27,Salvador,BA,Flamengo,10020.51,Corrida
+Luiz Gustavo,Masculino,64,Santos,SP,Vasco,11348.69,Tênis
+Isis,Masculino,44,Salvador,BA,Palmeiras,12196.01,Basquete
+Daniel,Feminino,51,Santos,SP,Vasco,10504.53,Tênis
+Leandro,Feminino,68,Pelotas,RS,Internacional,11058.47,Tênis
+Natália,Masculino,60,Porto Alegre,RS,Cruzeiro,7792.06,Basquete
+Lavínia,Masculino,63,Ilhéus,BA,Corinthians,9873.8,Ciclismo
+Antônio,Feminino,18,Volta Redonda,RJ,São Paulo,1283.73,Corrida
+Pedro Henrique,Masculino,46,Uberlândia,MG,Corinthians,14967.87,Ciclismo
+Rodrigo,Feminino,39,Campinas,SP,Atlético-MG,14618.36,Ciclismo
+Kaique,Feminino,55,Ribeirão Preto,SP,Palmeiras,3370.19,Skate
+Enzo,Masculino,76,Ribeirão Preto,SP,Corinthians,10465.04,Futebol
+Cecília,Masculino,45,Belo Horizonte,MG,Palmeiras,4753.1,Futebol
+Luiza,Masculino,49,Porto Alegre,RS,Atlético-MG,2359.8,Vôlei
+Pietro,Feminino,73,Petrópolis,RJ,Atlético-MG,2342.61,Tênis
+Alexia,Masculino,18,Volta Redonda,RJ,Corinthians,8428.5,Basquete
+Davi,Feminino,56,Salvador,BA,Cruzeiro,1674.89,Basquete
+Matheus,Feminino,62,Niterói,RJ,Palmeiras,11905.01,Natação
+Pedro Miguel,Masculino,38,Ilhéus,BA,Palmeiras,4527.89,Skate
+Ana Lívia,Feminino,58,São Paulo,SP,Bahia,14694.14,Vôlei
+Yuri,Masculino,43,Petrópolis,RJ,São Paulo,7183.69,Skate
+Ana Clara,Masculino,80,Ribeirão Preto,SP,Grêmio,7673.87,Corrida
+Gabrielly,Masculino,72,Contagem,MG,Corinthians,2224.21,Natação
+João Felipe,Feminino,65,Contagem,MG,São Paulo,3503.6,Skate
+André,Feminino,40,São Paulo,SP,Cruzeiro,8007.53,Natação
+Matheus,Masculino,65,Belo Horizonte,MG,Grêmio,11163.23,Vôlei
+Eduarda,Feminino,39,Feira de Santana,BA,Internacional,5734.85,Vôlei
+Kevin,Feminino,79,Ribeirão Preto,SP,Corinthians,11736.01,Tênis
+Thiago,Feminino,51,Rio de Janeiro,RJ,São Paulo,14606.03,Natação
+Luiz Miguel,Masculino,21,Volta Redonda,RJ,Grêmio,4731.22,Skate
+Luiz Gustavo,Masculino,42,Ribeirão Preto,SP,Flamengo,1423.64,Skate
+Yago,Feminino,30,Salvador,BA,Vasco,1248.46,Basquete
+Lucas,Feminino,36,Juiz de Fora,MG,São Paulo,12540.17,Natação
+Leonardo,Feminino,42,Caxias do Sul,RS,Cruzeiro,13641.48,Basquete
+Lorena,Feminino,53,Caxias do Sul,RS,Corinthians,4102.14,Tênis
+Calebe,Feminino,41,Uberlândia,MG,Internacional,5734.64,Natação
+Francisco,Feminino,67,Niterói,RJ,São Paulo,3134.6,Skate
+Luana,Feminino,51,Feira de Santana,BA,Corinthians,11412.46,Vôlei
+Sarah,Masculino,60,Petrópolis,RJ,Corinthians,10038.12,Corrida
+Luiz Miguel,Feminino,54,Ribeirão Preto,SP,Atlético-MG,1849.07,Skate
+Alexandre,Masculino,31,Volta Redonda,RJ,Palmeiras,14182.59,Corrida
+Nicole,Feminino,51,Niterói,RJ,Palmeiras,6707.49,Ciclismo
+Joaquim,Masculino,52,Rio de Janeiro,RJ,Flamengo,4491.53,Natação
+Arthur,Feminino,50,Ilhéus,BA,Grêmio,5250.22,Tênis
+Nina,Masculino,52,Porto Alegre,RS,Atlético-MG,5934.23,Futebol
+Bianca,Feminino,46,Niterói,RJ,Corinthians,8045.01,Corrida
+Fernando,Masculino,68,Contagem,MG,Atlético-MG,3529.49,Ciclismo
+Luiza,Feminino,44,São Paulo,SP,São Paulo,7918.66,Corrida
+Rodrigo,Feminino,37,Contagem,MG,São Paulo,11623.26,Ciclismo
+Lucas,Masculino,69,Ilhéus,BA,São Paulo,1400.89,Futebol
+Cecília,Masculino,68,Uberlândia,MG,Grêmio,3581.56,Vôlei
+Vitória,Feminino,22,Ribeirão Preto,SP,Flamengo,6598.33,Corrida
+João Miguel,Masculino,18,Salvador,BA,Cruzeiro,12827.14,Skate
+Ryan,Masculino,40,Campinas,SP,Flamengo,7745.36,Skate
+Maitê,Masculino,77,Vitória da Conquista,BA,Palmeiras,11043.81,Natação
+Fernanda,Masculino,64,Campinas,SP,Vasco,1693.97,Skate
+Mariane,Feminino,47,Juiz de Fora,MG,Internacional,3200.84,Basquete
+Isabelly,Feminino,58,Porto Alegre,RS,Vasco,8884.03,Tênis
+Vitor,Masculino,61,Petrópolis,RJ,Flamengo,7931.73,Natação
+Vitor Gabriel,Feminino,33,Santa Maria,RS,Grêmio,3587.14,Tênis
+Stella,Feminino,70,Petrópolis,RJ,Cruzeiro,10132.89,Corrida
+Amanda,Feminino,69,Contagem,MG,Flamengo,11882.38,Futebol
+Maria,Masculino,25,Niterói,RJ,Cruzeiro,9634.33,Corrida
+João Gabriel,Feminino,54,Uberlândia,MG,Internacional,4776.12,Natação
+Gabriel,Masculino,57,Porto Alegre,RS,Corinthians,14443.29,Vôlei
+Bruna,Feminino,30,Porto Alegre,RS,Vasco,13258.58,Corrida
+Gabriel,Feminino,69,Juiz de Fora,MG,Flamengo,3126.97,Ciclismo
+Clara,Feminino,50,Uberlândia,MG,Bahia,6692.14,Ciclismo
+Marcelo,Masculino,71,Santos,SP,Palmeiras,9596.28,Vôlei
+Lorenzo,Feminino,22,Uberlândia,MG,Internacional,8341.72,Skate
+Ana Vitória,Feminino,64,Ribeirão Preto,SP,Corinthians,3462.75,Futebol
+Nathan,Masculino,54,Porto Alegre,RS,Atlético-MG,13298.2,Tênis
+Sofia,Feminino,18,Belo Horizonte,MG,Flamengo,4222.51,Futebol
+Emilly,Feminino,23,Santos,SP,São Paulo,13084.7,Skate
+Pedro Miguel,Feminino,75,Contagem,MG,Atlético-MG,3217.37,Basquete
+Arthur,Masculino,27,Campinas,SP,Grêmio,2252.07,Vôlei
+Marcela,Feminino,25,Rio de Janeiro,RJ,Bahia,5081.53,Vôlei
+Maitê,Masculino,67,Santa Maria,RS,Grêmio,14585.55,Natação
+Maria Fernanda,Masculino,30,Salvador,BA,Corinthians,1791.85,Basquete
+Erick,Feminino,36,Ilhéus,BA,Flamengo,11208.53,Corrida
+Isaac,Feminino,29,Ilhéus,BA,Flamengo,9712.53,Vôlei
+Maria Clara,Feminino,79,Porto Alegre,RS,Vasco,8928.4,Corrida
+Gabriela,Feminino,73,Ribeirão Preto,SP,Corinthians,1692.68,Skate
+Pietra,Masculino,27,Juiz de Fora,MG,Corinthians,1389.17,Natação
+Lucas,Feminino,76,Volta Redonda,RJ,Vasco,6548.43,Basquete
+Gabrielly,Feminino,44,Santa Maria,RS,Cruzeiro,2107.87,Skate
+Bianca,Feminino,61,Rio de Janeiro,RJ,Corinthians,3638.06,Vôlei
+Kevin,Feminino,20,Volta Redonda,RJ,Cruzeiro,6689.94,Corrida
+Calebe,Feminino,19,Petrópolis,RJ,São Paulo,10149.64,Natação
+Vitor Hugo,Masculino,43,São Paulo,SP,São Paulo,3099.96,Futebol
+Helena,Feminino,43,Contagem,MG,São Paulo,6276.5,Futebol
+Esther,Masculino,71,Santa Maria,RS,Palmeiras,3099.65,Corrida
+Raquel,Masculino,29,Porto Alegre,RS,Atlético-MG,9324.38,Natação
+Gustavo,Feminino,30,Niterói,RJ,Internacional,11848.64,Basquete
+Pedro Lucas,Masculino,71,Santos,SP,Grêmio,8660.23,Tênis
+Olivia,Feminino,43,Uberlândia,MG,Atlético-MG,8065.47,Skate
+Milena,Feminino,60,Uberlândia,MG,Palmeiras,3628.54,Skate
+Vitor Gabriel,Feminino,65,Juiz de Fora,MG,Palmeiras,14713.59,Basquete
+Davi Lucas,Masculino,59,Campinas,SP,Flamengo,13673.46,Futebol
+Rodrigo,Feminino,53,Uberlândia,MG,Internacional,9354.47,Futebol
+Ana Laura,Masculino,46,Santa Maria,RS,Flamengo,12423.23,Ciclismo
+Ian,Feminino,28,Rio de Janeiro,RJ,Grêmio,3089.69,Corrida
+Luigi,Feminino,22,Campinas,SP,Atlético-MG,3201.23,Ciclismo
+Rafaela,Feminino,52,Uberlândia,MG,Flamengo,13007.38,Basquete
+Davi Luiz,Masculino,61,Niterói,RJ,Corinthians,13075.18,Futebol
+Manuela,Masculino,57,Uberlândia,MG,Flamengo,10802.36,Ciclismo
+Alice,Feminino,80,Contagem,MG,Palmeiras,7882.66,Corrida
+Pedro Henrique,Masculino,72,Porto Alegre,RS,Cruzeiro,9281.83,Futebol
+Olivia,Masculino,68,Feira de Santana,BA,Grêmio,11844.89,Basquete
+Natália,Masculino,35,Santa Maria,RS,Bahia,8643.6,Tênis
+Benício,Feminino,18,Vitória da Conquista,BA,Bahia,2298.48,Ciclismo
+Ana,Masculino,40,Volta Redonda,RJ,São Paulo,6528.98,Ciclismo
+Davi Luiz,Feminino,56,São Paulo,SP,Flamengo,14558.32,Futebol
+Luiz Otávio,Masculino,72,Belo Horizonte,MG,Bahia,10794.71,Corrida
+Rodrigo,Masculino,18,Salvador,BA,São Paulo,8550.83,Futebol
+Breno,Masculino,70,Rio de Janeiro,RJ,Atlético-MG,13024.8,Ciclismo
+Luigi,Masculino,20,Niterói,RJ,Cruzeiro,1617.25,Vôlei
+Mariane,Feminino,70,Ilhéus,BA,Vasco,3384.24,Futebol
+Stella,Masculino,78,Pelotas,RS,Corinthians,1362.05,Ciclismo
+Francisco,Feminino,36,Niterói,RJ,Cruzeiro,9922.13,Basquete
+Rebeca,Feminino,21,Ribeirão Preto,SP,Bahia,7633.32,Corrida
+Marcela,Feminino,37,Caxias do Sul,RS,Cruzeiro,2836.42,Tênis
+Lucas Gabriel,Masculino,25,Porto Alegre,RS,Palmeiras,4377.56,Vôlei
+Melissa,Feminino,74,São Paulo,SP,Bahia,14909.32,Skate
+Gabriel,Masculino,79,Salvador,BA,Atlético-MG,4921.76,Vôlei
+Júlia,Masculino,54,Juiz de Fora,MG,Corinthians,2718.98,Futebol
+Pedro Miguel,Feminino,76,Santa Maria,RS,Palmeiras,10367.28,Futebol
+Otávio,Masculino,32,Belo Horizonte,MG,Bahia,13215.54,Futebol
+Joana,Feminino,47,Niterói,RJ,Bahia,10932.93,Ciclismo
+Ana Julia,Masculino,46,Belo Horizonte,MG,Internacional,12002.09,Futebol
+Isabelly,Masculino,59,Caxias do Sul,RS,Bahia,2831.94,Basquete
+Heitor,Feminino,46,Porto Alegre,RS,Palmeiras,11670.19,Basquete
+Ana Sophia,Masculino,79,Salvador,BA,Corinthians,5513.91,Futebol
+Rafaela,Masculino,42,Feira de Santana,BA,Grêmio,8968.2,Vôlei
+Murilo,Feminino,65,Juiz de Fora,MG,Flamengo,2501.45,Natação
+Julia,Feminino,80,São Paulo,SP,Cruzeiro,12050.31,Futebol
+Maria Alice,Masculino,79,São Paulo,SP,Grêmio,6605.67,Futebol
+Marcos Vinicius,Feminino,46,Vitória da Conquista,BA,Cruzeiro,11067.18,Futebol

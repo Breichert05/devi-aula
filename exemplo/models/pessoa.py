@@ -1,7 +1,7 @@
-from datetime import date
+# from datetime import date
 
-from django.core.exceptions import ValidationError
-from django.core.validators import MinLengthValidator, MaxLengthValidator
+# from django.core.exceptions import ValidationError
+from django.core.validators import MinLengthValidator, MinValueValidator, MaxValueValidator
 from django.db import models
 
 from exemplo.enumerations import Sexo
@@ -12,14 +12,14 @@ from exemplo.models import Esporte
 
 class Pessoa(BaseModel):
     nome = models.CharField(validators=[MinLengthValidator(3)], max_length=40)
-    nascimento = models.DateField()
-    cpf = models.CharField(validators=[MinLengthValidator(11)], max_length=11, unique=True)
+    # nascimento = models.DateField()
+    # cpf = models.CharField(validators=[MinLengthValidator(11)], max_length=11, unique=True)
 
-    responsavel = models.CharField(max_length=100)
+    # responsavel = models.CharField(max_length=100)
     idade = models.IntegerField(
         validators=[
-            MinLengthValidator(0),
-            MaxLengthValidator(200)
+            MinValueValidator(0),
+            MaxValueValidator(200)
         ],
     )
 
@@ -35,16 +35,16 @@ class Pessoa(BaseModel):
         choices=Sexo
     )
 
-    def clean(self):
-        hoje = date.today()
-        limite = hoje.replace(year=hoje.year - 18)
-
-        if self.nascimento > hoje:
-            raise ValidationError({
-                "nascimento": "A data de nascimento não pode ser no futuro."
-            })
-
-        if self.nascimento > limite and not self.responsavel:
-            raise ValidationError({
-                "responsavel": "Este campo é obrigatório para pessoas menores de 18 anos."
-            })
+    # def clean(self):
+    #     hoje = date.today()
+    #     limite = hoje.replace(year=hoje.year - 18)
+    #
+    #     if self.nascimento > hoje:
+    #         raise ValidationError({
+    #             "nascimento": "A data de nascimento não pode ser no futuro."
+    #         })
+    #
+    #     if self.nascimento > limite and not self.responsavel:
+    #         raise ValidationError({
+    #             "responsavel": "Este campo é obrigatório para pessoas menores de 18 anos."
+    #         })
